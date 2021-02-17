@@ -4,7 +4,9 @@
 - folders for each of the four (1, 3, 5 and 8) small heat shock proteins analyzed  
 - each folder has :  
     - a master `.fasta` file with all the sequences  
-    - a `sections` folder with the `.fasta` file for each of the "regions"  
+    - a `sections` folder with:
+        - the `.fasta` file with the "excluded positions" from table 2 removed  
+        - the `.fasta` file for each of the "regions" (also with the excluded positions removed)  
     - a `hyphy` folder with the FEL and MEME analysis results  
 
 #### combined  
