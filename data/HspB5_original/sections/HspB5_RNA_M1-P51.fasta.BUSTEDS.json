@@ -1,0 +1,1900 @@
+{
+ "Evidence Ratios":{
+  },
+ "Site Log Likelihood":{
+   "unconstrained":    [
+[-37.50663665863456, -71.48539951002307, -81.27113641172275, -67.9324450452784, -63.06009153875121, -94.11181854917103, -78.74009690203914, -38.58399274681354, -98.99121430976024, -104.1405710201326, -93.53584798195266, -87.74228415111429, -121.6800719943901, -140.3301872893924, -117.3157119432437, -96.57517662461319, -106.203059232379, -132.5588782316167, -84.3933297700973, -91.14464146548335, -96.7382347883167, -37.3220161519925, -77.30818440741007, -71.06188968848446, -28.57655840232563, -105.3827876176589, -117.3451228235681, -103.1011918694461, -59.9537579463251, -65.24936060713408, -91.53249232934397, -153.7327336091907, -50.59622378051245, -142.5641300752587, -80.41818616405416, -102.2206158381545, -77.28638673752988, -136.0554382805807, -176.1476524229961, -116.3199048912253, -128.1404007516783, -109.5101684257321, -95.23719767121969, -94.20556373205496, -114.0130522649911, -29.60144280751105, -75.18877325306377, -137.2249831047343, -79.15528827479642, -158.704510891902] 
+    ]
+  },
+ "Synonymous site-posteriors":  [
+[3.784523294186974e-07, 0.02073989942167723, 0.01061721161054252, 0.01091946094784806, 0.1359559620910067, 0.5466412738639421, 0.02099039488008445, 0.00808490375827174, 0.953469141663404, 0.2214274591885383, 0.04610553972158483, 0.1826230303646332, 0.9945008373248407, 0.9995685942439309, 0.05070644195851309, 0.971321997951191, 0.9276907374836079, 0.9782782858427466, 0.03076080303885107, 0.5288266170582999, 0.004987269381388231, 3.284095644967767e-06, 0.005198460408376638, 0.09795834313398875, 7.009401988813492e-05, 0.9077344311520602, 0.9970961041583557, 3.413590098791034e-07, 0.004576809328815687, 0.3233330370888644, 0.0003114933287545061, 0.9996236633363039, 0.001229632527578348, 0.7858788479535546, 0.02803466723320046, 0.02656875012575002, 0.4750216384157677, 0.4399994249060242, 0.9995837197268798, 0.9186977679195169, 0.931496595174915, 0.9811594673134366, 0.09531446590317563, 0.9864666906735329, 0.8588743820118161, 0.0002151065198256878, 0.05839485109854976, 0.9364850364849425, 3.417564251508023e-09, 0.9964590547280112],
+  [0.009298006207052151, 0.9421467499589059, 0.9112181728747233, 0.8336691987071291, 0.8462496726458985, 0.4531307031872482, 0.9320207556345458, 0.7147133182955869, 0.04653021127301076, 0.7781307748526238, 0.9529683562458549, 0.8122632687001682, 0.005499160387333206, 0.0004314057510687873, 0.9491061889279715, 0.02867760390490041, 0.07230815832808475, 0.02172170521015685, 0.9545779638424278, 0.4710924946262579, 0.9778040769262228, 0.01684248482536398, 0.8981879444334988, 0.8863186859947403, 0.06459701481300201, 0.09226470473048062, 0.002903887617562322, 0.08280755430409682, 0.7757149737698203, 0.676007971261955, 0.742591478294736, 0.0003763366632265028, 0.3473969434881099, 0.2141205290028056, 0.952580609816989, 0.96042691984773, 0.5246948134318836, 0.5599983738081922, 0.0004162802717586415, 0.08130056828811998, 0.06850316507715086, 0.01884052318821462, 0.9035336054083926, 0.01353320342800755, 0.1411205245411882, 0.09537752036925369, 0.9287711499759523, 0.06351491911276877, 0.008168124851709441, 0.0035409452139666],
+  [0.9907016153406185, 0.03711335061941698, 0.07816461551473404, 0.1554113403450229, 0.01779436526309473, 0.0002280229488096143, 0.04698884948536977, 0.2772017779461414, 6.470635852335752e-07, 0.0004417659588379934, 0.0009261040325602649, 0.005113700935198729, 2.287826012929804e-09, 5.000357999976724e-12, 0.0001873691135155222, 3.981439085884499e-07, 1.104188307367066e-06, 8.947096482091495e-09, 0.01466123311872108, 8.088831544236685e-05, 0.01720865369238891, 0.9831542310789911, 0.09661359515812459, 0.01572297087127096, 0.9353328911671098, 8.641174590825211e-07, 8.22408200112899e-09, 0.9171921043368934, 0.2197082169013638, 0.0006589916491806276, 0.2570970283765094, 4.695075993287265e-13, 0.6513734239843118, 6.230436398744825e-07, 0.01938472294981044, 0.01300433002651994, 0.000283548152348604, 2.201285783716574e-06, 1.361641137579032e-12, 1.663792363194544e-06, 2.397479342448419e-07, 9.498348837929019e-09, 0.001151928688431848, 1.058984595342959e-07, 5.093446995625712e-06, 0.9044073731109206, 0.01283399892549792, 4.440228865133684e-08, 0.9918318717307263, 5.802230079114568e-11] 
+  ],
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond",
+   "citation":"*Gene-wide identification of episodic selection*, Mol Biol Evol. 32(5):1365-71",
+   "contact":"spond@temple.edu",
+   "info":"BUSTED (branch-site unrestricted statistical test of episodic diversification) uses a random effects branch-site model fitted \njointly to all or a subset of tree branches in order to test for alignment-wide evidence of episodic diversifying selection. \nAssuming there is evidence of positive selection (i.e. there is an omega > 1),  BUSTED will also perform a quick evidence-ratio \nstyle analysis to explore which individual sites may have been subject to selection. v2.0 adds support for synonymous rate variation, \nand relaxes the test statistic to 0.5 (chi^2_0 + chi^2_2). Version 2.1 adds a grid search for the initial starting point.\nVersion 2.2 changes the grid search to LHC, and adds an initial search phase to use adaptive Nedler-Mead. Version 3.0 implements the option\nfor branch-site variation in synonymous substitution rates. Version 3.1 adds HMM auto-correlation option for SRV, and binds SRV distributions for multiple branch sets\n",
+   "requirements":"in-frame codon alignment and a phylogenetic tree (optionally annotated with {})",
+   "version":"3.1"
+  },
+ "background":0,
+ "branch attributes":{
+   "0":{
+     "001_NM_001885_2_HspB5_Homo_sapiens_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"001-NM_001885.2-HspB5-Homo-sapiens-Primates",
+       "unconstrained":0
+      },
+     "001b_XM_011926733_1_HspB5_Colobus_angolensis_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"001b-XM_011926733.1-HspB5-Colobus-angolensis-Primates",
+       "unconstrained":0
+      },
+     "002_XM_002754383_3_HspB5_Callithrix_jacchus_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"002-XM_002754383.3-HspB5-Callithrix-jacchus-Primates",
+       "unconstrained":0
+      },
+     "003_XM_008065587_2_HspB5_isoform_X1_Carlito_syrichta_Primates":{
+       "MG94xREV with separate rates for branch sets":0.01476871902983587,
+       "Nucleotide GTR":0.01352812072434731,
+       "original name":"003-XM_008065587.2-HspB5-isoform-X1-Carlito-syrichta-Primates",
+       "unconstrained":0.01473869071068803
+      },
+     "004b_XM_012066401_1_HspB5_Cercocebus_atys_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"004b-XM_012066401.1-HspB5-Cercocebus-atys-Primates",
+       "unconstrained":0
+      },
+     "005_XM_008020848_1_HspB5_Chlorocebus_sabaeus_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"005-XM_008020848.1-HspB5-Chlorocebus-sabaeus-Primates",
+       "unconstrained":0
+      },
+     "007_XM_004052118_2_HspB5_Gorilla_gorilla_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"007-XM_004052118.2-HspB5-Gorilla-gorilla-Primates",
+       "unconstrained":0
+      },
+     "008_XM_015435350_1_HspB5_isoform_X1_Macaca_fascicularis_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"008-XM_015435350.1-HspB5-isoform-X1-Macaca-fascicularis-Primates",
+       "unconstrained":0
+      },
+     "009_NM_001260901_1_HspB5_Macaca_mulatta_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"009-NM_001260901.1-HspB5-Macaca-mulatta-Primates",
+       "unconstrained":0
+      },
+     "010_XM_012749592_2_HspB5_Microcebus_murinus_Primates":{
+       "MG94xREV with separate rates for branch sets":0.006510440587061707,
+       "Nucleotide GTR":0.006673661585180363,
+       "original name":"010-XM_012749592.2-HspB5-Microcebus-murinus-Primates",
+       "unconstrained":0.006214149871601621
+      },
+     "011_XM_004090563_2_HspB5_Nomascus_leucogenys_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"011-XM_004090563.2-HspB5-Nomascus-leucogenys-Primates",
+       "unconstrained":0
+      },
+     "012_XM_003794732_3_HspB5_Otolemur_garnettii_Primates":{
+       "MG94xREV with separate rates for branch sets":0.04550780170901515,
+       "Nucleotide GTR":0.04135236395597094,
+       "original name":"012-XM_003794732.3-HspB5-Otolemur-garnettii-Primates",
+       "unconstrained":0.04675673316703285
+      },
+     "012b_XM_003805460_4_HspB5_Pan_paniscus_Primates":{
+       "MG94xREV with separate rates for branch sets":0.0070229773357178,
+       "Nucleotide GTR":0.006714213404335844,
+       "original name":"012b-XM_003805460.4-HspB5-Pan-paniscus-Primates",
+       "unconstrained":0.007020717470525295
+      },
+     "013_XM_016921980_2_HspB5_Pan_troglodytes_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"013-XM_016921980.2-HspB5-Pan-troglodytes-Primates",
+       "unconstrained":0
+      },
+     "014_XM_009247045_2_HspB5_isoform_X1_Pongo_abelii_Primates":{
+       "MG94xREV with separate rates for branch sets":0.01435031828433529,
+       "Nucleotide GTR":0.013534841121612,
+       "original name":"014-XM_009247045.2-HspB5-isoform-X1-Pongo-abelii-Primates",
+       "unconstrained":0.01445149338476962
+      },
+     "015_XM_012659198_1_HspB5_Propithecus_coquereli_Primates":{
+       "MG94xREV with separate rates for branch sets":0.007509709619154956,
+       "Nucleotide GTR":0.0068028366397637,
+       "original name":"015-XM_012659198.1-HspB5-Propithecus-coquereli-Primates",
+       "unconstrained":0.007730433602240924
+      },
+     "015a_XM_010382343_1_HspB5_Rhinopithecus_roxellana_Primates":{
+       "MG94xREV with separate rates for branch sets":0.007110118026465281,
+       "Nucleotide GTR":0.006722699993068784,
+       "original name":"015a-XM_010382343.1-HspB5-Rhinopithecus-roxellana-Primates",
+       "unconstrained":0.007139211409932055
+      },
+     "016_XM_010334574_1_HspB5_transcript_variant_X1_Saimiri_boliviensis_Primates":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"016-XM_010334574.1-HspB5-transcript-variant-X1-Saimiri-boliviensis-Primates",
+       "unconstrained":0
+      },
+     "030_XM_020175744_1_HspB5_Castor_canadensis_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.04662322759674888,
+       "Nucleotide GTR":0.04243397488760301,
+       "original name":"030-XM_020175744.1-HspB5-Castor-canadensis-GliresScandentia",
+       "unconstrained":0.04704226262494594
+      },
+     "031_NM_001173076_1_HspB5_Cavia_porcellus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.06089662032227681,
+       "Nucleotide GTR":0.05045051942923959,
+       "original name":"031-NM_001173076.1-HspB5-Cavia-porcellus-GliresScandentia",
+       "unconstrained":0.07271751024664
+      },
+     "032_XM_005378100_2_HspB5_Chinchilla_lanigera_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.02185520566379623,
+       "Nucleotide GTR":0.02051231904940502,
+       "original name":"032-XM_005378100.2-HspB5-Chinchilla-lanigera-GliresScandentia",
+       "unconstrained":0.0221861793737678
+      },
+     "033_XM_016968238_1_HspB5_variantX7_Cricetulus_griseus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.006687260507716266,
+       "Nucleotide GTR":0.006701527530416604,
+       "original name":"033-XM_016968238.1-HspB5-variantX7-Cricetulus-griseus-GliresScandentia",
+       "unconstrained":0.006991825122381634
+      },
+     "035_XM_010610684_2_HspB5_Fukomys_damarensis_GliresScenadentia":{
+       "MG94xREV with separate rates for branch sets":0.02809424987291896,
+       "Nucleotide GTR":0.02588964959070621,
+       "original name":"035-XM_010610684.2-HspB5-Fukomys-damarensis-GliresScenadentia",
+       "unconstrained":0.02916723925852512
+      },
+     "036_NM_001279857_2_HspB5_Heterocephalus_glaber_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.01010147712850727,
+       "Nucleotide GTR":0.01148701080759957,
+       "original name":"036-NM_001279857.2-HspB5-Heterocephalus-glaber-GliresScandentia",
+       "unconstrained":0.008980233151718392
+      },
+     "037_XM_004666484_2_HspB5_Jaculus_jaculus_GliresScadentia":{
+       "MG94xREV with separate rates for branch sets":0.07182549819482503,
+       "Nucleotide GTR":0.06327202538191913,
+       "original name":"037-XM_004666484.2-HspB5-Jaculus-jaculus-GliresScadentia",
+       "unconstrained":0.07494578681969338
+      },
+     "037a_XM_015489896_1_HspB5_Marmota_marmota_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.03014106323578734,
+       "Nucleotide GTR":0.02738621374139134,
+       "original name":"037a-XM_015489896.1-HspB5-Marmota-marmota-GliresScandentia",
+       "unconstrained":0.03079049358232564
+      },
+     "038_XM_021658661_1_HspB5_Meriones_unguiculatus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.02140931194367181,
+       "Nucleotide GTR":0.0204224418964505,
+       "original name":"038-XM_021658661.1-HspB5-Meriones-unguiculatus-GliresScandentia",
+       "unconstrained":0.01948293383558366
+      },
+     "039_XM_013113005_2_HspB5_Mesocricetus_auratus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.02396600119434072,
+       "Nucleotide GTR":0.02062270818489292,
+       "original name":"039-XM_013113005.2-HspB5-Mesocricetus-auratus-GliresScandentia",
+       "unconstrained":0.02574417597002477
+      },
+     "040_XM_005347316_3_HspB5_Microtus_ochrogaster_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.05842827311282603,
+       "Nucleotide GTR":0.04955911454248844,
+       "original name":"040-XM_005347316.3-HspB5-Microtus-ochrogaster-GliresScandentia",
+       "unconstrained":0.06139933963303127
+      },
+     "041_NM_001289785_1_HspB5_Mus_musculus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.007731996376275557,
+       "Nucleotide GTR":0.006778768773979472,
+       "original name":"041-NM_001289785.1-HspB5-Mus-musculus-GliresScandentia",
+       "unconstrained":0.007810136614122125
+      },
+     "041a_XM_021206500_1_Hspb5_variant_X3_Mus_pahari_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.02268547133031722,
+       "Nucleotide GTR":0.02056291952119439,
+       "original name":"041a-XM_021206500.1-Hspb5-variant-X3-Mus-pahari-GliresScandentia",
+       "unconstrained":0.02241173133297034
+      },
+     "042_XM_008832795_1_HspB5_Nannospalax_galili_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.05383394322041154,
+       "Nucleotide GTR":0.04962644229517045,
+       "original name":"042-XM_008832795.1-HspB5-Nannospalax-galili-GliresScandentia",
+       "unconstrained":0.06092267943600536
+      },
+     "043_XM_012926934_1_HspB5_transcript_X1_Ochotona_princeps_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.037773255017473,
+       "Nucleotide GTR":0.0346508984473186,
+       "original name":"043-XM_012926934.1-HspB5-transcript-X1-Ochotona-princeps-GliresScandentia",
+       "unconstrained":0.03798912922889529
+      },
+     "044_XM_004646354_3_HspB5_Octodon_degus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.02260501346047278,
+       "Nucleotide GTR":0.020765624022355,
+       "original name":"044-XM_004646354.3-HspB5-Octodon-degus-GliresScandentia",
+       "unconstrained":0.02318486693812785
+      },
+     "044a_NM_001082407_1_HspB5_Oryctolagus_cuniculus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.0138925651312119,
+       "Nucleotide GTR":0.01359117557583661,
+       "original name":"044a-NM_001082407.1-HspB5-Oryctolagus-cuniculus-GliresScandentia",
+       "unconstrained":0.01371968028365658
+      },
+     "045_XM_015987087_1_HspB5_Peromyscus_maniculatus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.03112769354317059,
+       "Nucleotide GTR":0.02768358268653574,
+       "original name":"045-XM_015987087.1-HspB5-Peromyscus-maniculatus-GliresScandentia",
+       "unconstrained":0.03134058076645095
+      },
+     "046_NM_012935_4_HspB5_Rattus_norvegicus_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.02086869128585511,
+       "Nucleotide GTR":0.02063487842934054,
+       "original name":"046-NM_012935.4-HspB5-Rattus-norvegicus-GliresScandentia",
+       "unconstrained":0.01920813285831034
+      },
+     "047_XM_006150984_2_HspB5_Tupaia_chinensis_GliresScandentia":{
+       "MG94xREV with separate rates for branch sets":0.04626114891155498,
+       "Nucleotide GTR":0.04155410990305885,
+       "original name":"047-XM_006150984.2-HspB5-Tupaia-chinensis-GliresScandentia",
+       "unconstrained":0.0479883765759142
+      },
+     "050_NM_001304874_1_HspB5_Ailuropoda_melanoleuca_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.01496801934170352,
+       "Nucleotide GTR":0.01371534272413278,
+       "original name":"050-NM_001304874.1-HspB5-Ailuropoda-melanoleuca-Laurasitheria",
+       "unconstrained":0.01512266112970258
+      },
+     "050b_XM_019975270_1_HspB5_Bos_indicus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.007007846190371886,
+       "Nucleotide GTR":0.006718395340427204,
+       "original name":"050b-XM_019975270.1-HspB5-Bos-indicus-Laurasitheria",
+       "unconstrained":0.006989969669702521
+      },
+     "052_NM_174290_2_HspB5_Bos_taurus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"052-NM_174290.2-HspB5-Bos-taurus-Laurasitheria",
+       "unconstrained":0
+      },
+     "053_XM_006190373_2_HspB5_isoform_X1_Camelus_ferus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"053-XM_006190373.2-HspB5-isoform-X1-Camelus-ferus-Laurasitheria",
+       "unconstrained":0
+      },
+     "053a_KJ174932_1_HspB5_stopcodon_missing_Camelus_dromedarius_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"053a-KJ174932.1-HspB5-stopcodon-missing-Camelus-dromedarius-Laurasitheria",
+       "unconstrained":0
+      },
+     "053a_XM_010985982_1_HspB5_NShortened_Camelus_dromedarius_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"053a-XM_010985982.1-HspB5-NShortened-Camelus-dromedarius-Laurasitheria",
+       "unconstrained":0
+      },
+     "054_XM_857165_5_HspB5_Canis_lupus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.00726752159770428,
+       "Nucleotide GTR":0.006735976492548705,
+       "original name":"054-XM_857165.5-HspB5-Canis-lupus-Laurasitheria",
+       "unconstrained":0.007275616228789865
+      },
+     "055_XM_004427339_2_HspB5_Ceratotherium_simum_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.06158914526772109,
+       "Nucleotide GTR":0.0556808041907,
+       "original name":"055-XM_004427339.2-HspB5-Ceratotherium-simum-Laurasitheria",
+       "unconstrained":0.06343624501383931
+      },
+     "056_XM_004689273_2_HspB5_Condylura_cristata_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.0599292801185422,
+       "Nucleotide GTR":0.04998783900440107,
+       "original name":"056-XM_004689273.2-HspB5-Condylura-cristata-Laurasitheria",
+       "unconstrained":0.06190892091690244
+      },
+     "057_XM_022561589_1_HspB5_Delphinapterus_leucas_Laurasiathera":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"057-XM_022561589.1-HspB5-Delphinapterus-leucas-Laurasiathera",
+       "unconstrained":0
+      },
+     "058_XM_022512857_1_HspB2_transcript_variant_X2_Enhydra_lutris_Laurasiathera":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"058-XM_022512857.1-HspB2-transcript-variant-X2-Enhydra-lutris-Laurasiathera",
+       "unconstrained":0
+      },
+     "059_XM_008150161_1_HspB5_Eptesicus_fuscus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.03043773529416196,
+       "Nucleotide GTR":0.02749582068531747,
+       "original name":"059-XM_008150161.1-HspB5-Eptesicus-fuscus-Laurasitheria",
+       "unconstrained":0.03064673888515702
+      },
+     "060_XM_001501779_5_HspB5_Equus_caballus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.02195828078656868,
+       "Nucleotide GTR":0.02036598430697511,
+       "original name":"060-XM_001501779.5-HspB5-Equus-caballus-Laurasitheria",
+       "unconstrained":0.02237738052655066
+      },
+     "061_XM_011286345_3_HspB5_Felis_catus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.007372229760165262,
+       "Nucleotide GTR":0.006785579093834504,
+       "original name":"061-XM_011286345.3-HspB5-Felis-catus-Laurasitheria",
+       "unconstrained":0.007419726681907409
+      },
+     "062_XM_019653686_1_HspB5_isoform_X1_Hipposideros_armiger_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"062-XM_019653686.1-HspB5-isoform-X1-Hipposideros-armiger-Laurasitheria",
+       "unconstrained":0
+      },
+     "063_XM_007464652_1_HspB5_Lipotes_vexillifer_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.007019327646618798,
+       "Nucleotide GTR":0.006716644728903472,
+       "original name":"063-XM_007464652.1-HspB5-Lipotes-vexillifer-Laurasitheria",
+       "unconstrained":0.006927768725826721
+      },
+     "064_XM_017659392_1_HspB5_Manis_javanica_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.1294564594254933,
+       "Nucleotide GTR":0.1014212573839954,
+       "original name":"064-XM_017659392.1-HspB5-Manis-javanica-Laurasitheria",
+       "unconstrained":0.1306943320014303
+      },
+     "066_XM_004749799_2_HspB5_Mustela_putorius_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.02247456888428518,
+       "Nucleotide GTR":0.02041796058556056,
+       "original name":"066-XM_004749799.2-HspB5-Mustela-putorius-Laurasitheria",
+       "unconstrained":0.02271954258826879
+      },
+     "070_XM_012567097_1_HspB5_Odobenus_rosmarus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.007177104136533829,
+       "Nucleotide GTR":0.00673167959523749,
+       "original name":"070-XM_012567097.1-HspB5-Odobenus-rosmarus-Laurasitheria",
+       "unconstrained":0.007130505499758884
+      },
+     "071_XM_004273414_2_HspB5_Orcinus_orca_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"071-XM_004273414.2-HspB5-Orcinus-orca-Laurasitheria",
+       "unconstrained":0
+      },
+     "072_NM_001012457_2_HspB5_Ovis_aries_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.00600462669321893,
+       "Nucleotide GTR":0.006608473132157918,
+       "original name":"072-NM_001012457.2-HspB5-Ovis-aries-Laurasitheria",
+       "unconstrained":0.007293414507652373
+      },
+     "073_XM_015542578_1_HspB5_Panthera_tigris_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"073-XM_015542578.1-HspB5-Panthera-tigris-Laurasitheria",
+       "unconstrained":0
+      },
+     "073a_XM_019469186_1_HspB5_Panthera_pardus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.007257100098905442,
+       "Nucleotide GTR":0.006753905504312204,
+       "original name":"073a-XM_019469186.1-HspB5-Panthera-pardus-Laurasitheria",
+       "unconstrained":0.007247065867041294
+      },
+     "074_XM_006912821_1_NShortened_HspB5_Pteropus_alecto_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"074-XM_006912821.1-NShortened-HspB5-Pteropus-alecto-Laurasitheria",
+       "unconstrained":0
+      },
+     "075_XM_007128267_2_HspB5_Physeter_catodon_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"075-XM_007128267.2-HspB5-Physeter-catodon-Laurasitheria",
+       "unconstrained":0
+      },
+     "076_XM_011365409_2_NShortened_HspB5_Pteropus_vampyrus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.006926442462484865,
+       "Nucleotide GTR":0.006760420921059716,
+       "original name":"076-XM_011365409.2-NShortened-HspB5-Pteropus-vampyrus-Laurasitheria",
+       "unconstrained":0.006928151383484115
+      },
+     "077_XM_016149055_1_NShortened_HspB5_Rousettus_aegyptiacus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.006936477740908629,
+       "Nucleotide GTR":0.006721557580776171,
+       "original name":"077-XM_016149055.1-NShortened-HspB5-Rousettus-aegyptiacus-Laurasitheria",
+       "unconstrained":0.006951411588432835
+      },
+     "079_XM_004604685_2_HspB5_Sorex_araneus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.1104299526746797,
+       "Nucleotide GTR":0.08777665543474042,
+       "original name":"079-XM_004604685.2-HspB5-Sorex-araneus-Laurasitheria",
+       "unconstrained":0.1310220698469904
+      },
+     "080_XM_021062779_1_HspB5_variant_X3_Sus_scrofa_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.02146249700809586,
+       "Nucleotide GTR":0.02033777765600874,
+       "original name":"080-XM_021062779.1-HspB5-variant-X3-Sus-scrofa-Laurasitheria",
+       "unconstrained":0.02171364856588325
+      },
+     "081_XM_008690086_1_HspB5_Ursus_maritimus_Laurasotheria":{
+       "MG94xREV with separate rates for branch sets":0.007459273861688548,
+       "Nucleotide GTR":0.006798838017615527,
+       "original name":"081-XM_008690086.1-HspB5-Ursus-maritimus-Laurasotheria",
+       "unconstrained":0.007465993012815847
+      },
+     "082_XM_006217871_2_HspB5_isoform_X1_Vicugna_pacos_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.01449672842811292,
+       "Nucleotide GTR":0.01352822298123207,
+       "original name":"082-XM_006217871.2-HspB5-isoform-X1-Vicugna-pacos-Laurasitheria",
+       "unconstrained":0.01442789689615156
+      },
+     "100_XM_006833817_1_NShortened_HspB5_Chrysochloris_asiatica_Aftrotheria":{
+       "MG94xREV with separate rates for branch sets":0.02739723677617605,
+       "Nucleotide GTR":0.02735925327346273,
+       "original name":"100-XM_006833817.1-NShortened-HspB5-Chrysochloris-asiatica-Aftrotheria",
+       "unconstrained":0.02711636819012551
+      },
+     "100a_XM_004708973_2_HspB5_Echinops_telfairi_Afrotheria":{
+       "MG94xREV with separate rates for branch sets":0.01580571893582413,
+       "Nucleotide GTR":0.01403282967345298,
+       "original name":"100a-XM_004708973.2-HspB5-Echinops-telfairi-Afrotheria",
+       "unconstrained":0.02198713821228636
+      },
+     "101_XM_006890772_1_HspB1_Elephantulus_edwardii_Afrotheria":{
+       "MG94xREV with separate rates for branch sets":0.02869482340651247,
+       "Nucleotide GTR":0.02741553258154729,
+       "original name":"101-XM_006890772.1-HspB1-Elephantulus-edwardii-Afrotheria",
+       "unconstrained":0.0297880918134569
+      },
+     "102_XM_003415624_3_HspB5_Loxodonta_africana_Aftrotheria":{
+       "MG94xREV with separate rates for branch sets":0.03679006472271273,
+       "Nucleotide GTR":0.03501325307329378,
+       "original name":"102-XM_003415624.3-HspB5-Loxodonta-africana-Aftrotheria",
+       "unconstrained":0.03812315539546382
+      },
+     "103_XM_007936553_1_HspB5_Orycteropus_afer_Afrotheria":{
+       "MG94xREV with separate rates for branch sets":0.0374669608051855,
+       "Nucleotide GTR":0.03437303913821627,
+       "original name":"103-XM_007936553.1-HspB5-Orycteropus-afer-Afrotheria",
+       "unconstrained":0.03751614781087334
+      },
+     "103a_ENSPCAT00000001647_1_HspB5_Procavia_capensis_Aftrotheria":{
+       "MG94xREV with separate rates for branch sets":0.04320969795172682,
+       "Nucleotide GTR":0.04133309680595826,
+       "original name":"103a-ENSPCAT00000001647.1-HspB5-Procavia-capensis-Aftrotheria",
+       "unconstrained":0.04381519420206058
+      },
+     "104_XM_004382499_3_HspB5_Trichechus_manatus_Afrotheria":{
+       "MG94xREV with separate rates for branch sets":0.01491040392971181,
+       "Nucleotide GTR":0.01373322786566363,
+       "original name":"104-XM_004382499.3-HspB5-Trichechus-manatus-Afrotheria",
+       "unconstrained":0.01496198736082958
+      },
+     "110_XM_003764224_2_HspB5_Sarcophilus_harrisii_Metatheria":{
+       "MG94xREV with separate rates for branch sets":0.03822129898686057,
+       "Nucleotide GTR":0.0009065546693313799,
+       "original name":"110-XM_003764224.2-HspB5-Sarcophilus-harrisii-Metatheria",
+       "unconstrained":0.03730797104002187
+      },
+     "111_XM_001371207_3_HspB5_Monodelphis_domestica_Metatheria":{
+       "MG94xREV with separate rates for branch sets":0.05547055453421057,
+       "Nucleotide GTR":0.04975766912647023,
+       "original name":"111-XM_001371207.3-HspB5-Monodelphis-domestica-Metatheria",
+       "unconstrained":0.05694455528421249
+      },
+     "113_XM_020989782_1_HspB5_Phascolarctos_cinereus_Metatheria":{
+       "MG94xREV with separate rates for branch sets":0.01707965700283981,
+       "Nucleotide GTR":0.0201201528965364,
+       "original name":"113-XM_020989782.1-HspB5-Phascolarctos-cinereus-Metatheria",
+       "unconstrained":0.0168588858934837
+      },
+     "115_XM_004481144_3_HspB5_Dasypus_novemcinctus_Xenarthra":{
+       "MG94xREV with separate rates for branch sets":0.04473448446136638,
+       "Nucleotide GTR":0.0417457509561139,
+       "original name":"115-XM_004481144.3-HspB5-Dasypus-novemcinctus-Xenarthra",
+       "unconstrained":0.04585665772009415
+      },
+     "120_XM_006271349_3_HspB5_isoform_X1_Alligator_mississippiensis_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.04003194423860627,
+       "Nucleotide GTR":0.014622878535152,
+       "original name":"120-XM_006271349.3-HspB5-isoform-X1-Alligator-mississippiensis-SauriaTestudines",
+       "unconstrained":0.04479767896136014
+      },
+     "121a_NM_001310366_1_HspB5_Anas_platyrhynchos_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01369071052550516,
+       "Nucleotide GTR":0.01369456058922497,
+       "original name":"121a-NM_001310366.1-HspB5-Anas-platyrhynchos-SauriaTestudines",
+       "unconstrained":0.01405648243444071
+      },
+     "122_XM_008121072_2_HspB5_Anolis_carolinensis_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.5265969536464283,
+       "Nucleotide GTR":0.2643716870539051,
+       "original name":"122-XM_008121072.2-HspB5-Anolis-carolinensis-SauriaTestudines",
+       "unconstrained":0.6235618173457841
+      },
+     "122a_XM_009870055_1_122a_Apaloderma_vittatum_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01321050921509743,
+       "Nucleotide GTR":0.01994015270294635,
+       "original name":"122a-XM_009870055.1-122a-Apaloderma-vittatum-SauriaTestudines",
+       "unconstrained":0.01739764281578646
+      },
+     "122b_XM_026863824_1_HspB5_Athene_cunicularia_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01242250573416793,
+       "Nucleotide GTR":0.006781508669381277,
+       "original name":"122b-XM_026863824.1-HspB5-Athene-cunicularia-SauriaTestudines",
+       "unconstrained":0.008369381850155677
+      },
+     "122c_XM_010169584_1_HspB5_Antrostomus_carolinensis_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.03820657520537419,
+       "Nucleotide GTR":0.03959679883133232,
+       "original name":"122c-XM_010169584.1-HspB5-Antrostomus-carolinensis-SauriaTestudines",
+       "unconstrained":0.03851299475420833
+      },
+     "123_XM_011601882_1_HspB5_Aquila_chrysaetos_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.006395263871186457,
+       "Nucleotide GTR":0.00664875889445308,
+       "original name":"123-XM_011601882.1-HspB5-Aquila-chrysaetos-SauriaTestudines",
+       "unconstrained":0.006399783965580186
+      },
+     "123a_XM_010298661_1_HspB5_Balearica_regulorum_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.006440550258408674,
+       "Nucleotide GTR":0.006644778573554658,
+       "original name":"123a-XM_010298661.1-HspB5-Balearica-regulorum--SauriaTestudines",
+       "unconstrained":0.006435949314459913
+      },
+     "123b_XM_010142606_1_HspB5_Buceros_rhinoceros_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01991088191361748,
+       "Nucleotide GTR":0.02025356681648975,
+       "original name":"123b-XM_010142606.1-HspB5-Buceros-rhinoceros-SauriaTestudines",
+       "unconstrained":0.01986986456325156
+      },
+     "124_XM_014949523_1_HspB5_Calidris_pugnax_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01987882041022825,
+       "Nucleotide GTR":0.02005323156924909,
+       "original name":"124-XM_014949523.1-HspB5-Calidris-pugnax-SauriaTestudines",
+       "unconstrained":0.02012085874107272
+      },
+     "125_XM_008492420_1_HspB5_Calypte_anna_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.07199764277056543,
+       "Nucleotide GTR":0.06218857966229697,
+       "original name":"125-XM_008492420.1-HspB5-Calypte-anna-SauriaTestudines",
+       "unconstrained":0.07424556051950396
+      },
+     "125a_XM_009696584_1_HspB5_Cariama_cristata_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.0131914853054864,
+       "Nucleotide GTR":0.01338292635942802,
+       "original name":"125a-XM_009696584.1-HspB5-Cariama-cristata-SauriaTestudines",
+       "unconstrained":0.01337588017292978
+      },
+     "125c_XM_009997410_1_HspB5_Chaetura_pelagica_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.005230049699556027,
+       "Nucleotide GTR":0.00635869926261199,
+       "original name":"125c-XM_009997410.1-HspB5-Chaetura-pelagica-SauriaTestudines",
+       "unconstrained":0.00688112844627688
+      },
+     "125d_XM_009882443_1_HspB5_Charadrius_vociferus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01305681399154563,
+       "Nucleotide GTR":0.01351777781212072,
+       "original name":"125d-XM_009882443.1-HspB5-Charadrius-vociferus-SauriaTestudines",
+       "unconstrained":0.01300019155953036
+      },
+     "126_XM_005291386_3_HspB5_Chrysemys_picta_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"126-XM_005291386.3-HspB5-Chrysemys-picta-SauriaTestudines",
+       "unconstrained":0
+      },
+     "126a_XM_021285292_1_HspB5_Columba_livia_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.03998411107975641,
+       "Nucleotide GTR":0.03394755388091214,
+       "original name":"126a-XM_021285292.1-HspB5-Columba-livia-SauriaTestudines",
+       "unconstrained":0.03609807393567058
+      },
+     "127_XM_008636923_2_HspB5_Corvus_brachyrhynchos_SauriaTeatudines":{
+       "MG94xREV with separate rates for branch sets":0.007038278431715432,
+       "Nucleotide GTR":0.006700400543494769,
+       "original name":"127-XM_008636923.2-HspB5-Corvus-brachyrhynchos-SauriaTeatudines",
+       "unconstrained":0.007159419046069638
+      },
+     "128_XM_015883834_1_HspB5_Coturnix_japonica_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.02658948238705308,
+       "Nucleotide GTR":0.02702046365005692,
+       "original name":"128-XM_015883834.1-HspB5-Coturnix-japonica-SauriaTestudines",
+       "unconstrained":0.02666807026005544
+      },
+     "129_XM_019547110_1_HspB5_isoform_X1_Crocodylus_porosus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01767735621229721,
+       "Nucleotide GTR":0.03369604366402851,
+       "original name":"129-XM_019547110.1-HspB5-isoform-X1-Crocodylus-porosus-SauriaTestudines",
+       "unconstrained":0.0150522945476721
+      },
+     "130_XM_009569900_1_HspB5_Cuculus_canorus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.00648307109437877,
+       "Nucleotide GTR":0.006645425085337022,
+       "original name":"130-XM_009569900.1-HspB5-Cuculus-canorus-SauriaTestudines",
+       "unconstrained":0.006497001437356623
+      },
+     "130b_XM_009638415_1_HspB5_Egretta_garzetta_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.02639286988590968,
+       "Nucleotide GTR":0.02695988454550054,
+       "original name":"130b-XM_009638415.1-HspB5-Egretta-garzetta-SauriaTestudines",
+       "unconstrained":0.02670948179056698
+      },
+     "131_XM_005440198_1_HspB5_Falco_cherrug_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"131-XM_005440198.1-HspB5-Falco-cherrug-SauriaTestudines",
+       "unconstrained":0
+      },
+     "132_XM_005236602_1_HspB5_Falco_peregrinus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"132-XM_005236602.1-HspB5-Falco-peregrinus-SauriaTestudines",
+       "unconstrained":0
+      },
+     "133_XM_005058800_1_HspB5_Ficedula_albicollis_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"133-XM_005058800.1-HspB5-Ficedula-albicollis-SauriaTestudines",
+       "unconstrained":0
+      },
+     "134_NM_205176_1_HspB5_Gallus_gallus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.0084939884934013,
+       "Nucleotide GTR":0.007394620463903789,
+       "original name":"134-NM_205176.1-HspB5-Gallus-gallus-SauriaTestudines",
+       "unconstrained":0.008776223222718198
+      },
+     "134a_XM_009810695_1_HspB5_Gavia_stellata_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01302351438300128,
+       "Nucleotide GTR":0.01334842243905624,
+       "original name":"134a-XM_009810695.1-HspB5-Gavia-stellata-SauriaTestudines",
+       "unconstrained":0.01299820681396093
+      },
+     "135_XM_015415588_1_HspB5_isoform_X1_Gekko_japonicus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.2492769819274008,
+       "Nucleotide GTR":0.1553843008466329,
+       "original name":"135-XM_015415588.1-HspB5-isoform-X1-Gekko-japonicus-SauriaTestudines",
+       "unconstrained":0.3131157638732682
+      },
+     "136_XM_010575003_1_HspB5_Haliaeetus_leucocephalus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"136-XM_010575003.1-HspB5-Haliaeetus-leucocephalus-SauriaTestudines",
+       "unconstrained":0
+      },
+     "136a_XM_009917256_1_HspB5_Haliaeetus_albicilla_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"136a-XM_009917256.1-HspB5-Haliaeetus-albicilla-SauriaTestudines",
+       "unconstrained":0
+      },
+     "137_XM_017809764_1_HspB5_Lepidothrix_coronata_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"137-XM_017809764.1-HspB5-Lepidothrix-coronata-SauriaTestudines",
+       "unconstrained":0
+      },
+     "138_XM_021530106_1_HspB5_isoform_X1_Lonchura_striata_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.007220694482240836,
+       "Nucleotide GTR":0.006705596265315269,
+       "original name":"138-XM_021530106.1-HspB5-isoform-X1-Lonchura-striata-SauriaTestudines",
+       "unconstrained":0.007471466756447222
+      },
+     "138a_XM_008935459_1_HspB5_Merops_nubicus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.02286733178749431,
+       "Nucleotide GTR":0.01979413545610982,
+       "original name":"138a-XM_008935459.1-HspB5-Merops-nubicus-SauriaTestudines",
+       "unconstrained":0.02108661655109554
+      },
+     "139_XM_009472271_1_HspB5_Nipponia_nippon_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.03365618419406163,
+       "Nucleotide GTR":0.03391557465716765,
+       "original name":"139-XM_009472271.1-HspB5-Nipponia-nippon-SauriaTestudines",
+       "unconstrained":0.034265392182989
+      },
+     "139a_XM_026041046_1_HspB5_Nothoprocta_perdicaria_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.05846608466029423,
+       "Nucleotide GTR":0.06270142033148043,
+       "original name":"139a-XM_026041046.1-HspB5-Nothoprocta-perdicaria-SauriaTestudines",
+       "unconstrained":0.06239127802251954
+      },
+     "139b_XM_015649982_1_HspB5_isoform_X1_Parus_major_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"139b-XM_015649982.1-HspB5-isoform-X1-Parus-major-SauriaTestudines",
+       "unconstrained":0
+      },
+     "139c_XM_009944637_1_HspB5_Opisthocomus_hoazin_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"139c-XM_009944637.1-HspB5-Opisthocomus-hoazin-SauriaTestudines",
+       "unconstrained":0
+      },
+     "139d_XM_009485675_1_HspB5_Pelecanus_crispus_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"139d-XM_009485675.1-HspB5-Pelecanus-crispus-SauriaTestudines",
+       "unconstrained":0
+      },
+     "142_XM_005531058_2_HspB5_Pseudopodoces_humilis_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"142-XM_005531058.2-HspB5-Pseudopodoces-humilis-SauriaTestudines",
+       "unconstrained":0
+      },
+     "143_XM_009098028_2_HspB5_Serinus_canaria_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"143-XM_009098028.2-HspB5-Serinus-canaria-SauriaTestudines",
+       "unconstrained":0
+      },
+     "144_XM_002192884_3_HspB5_Taeniopygia_guttata_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.01445422595084174,
+       "Nucleotide GTR":0.01344910848028119,
+       "original name":"144-XM_002192884.3-HspB5-Taeniopygia-guttata-SauriaTestudines",
+       "unconstrained":0.01498567386333273
+      },
+     "144a_XM_024207189_2_HspB5_Terrapene_mexicana_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0,
+       "original name":"144a-XM_024207189.2-HspB5-Terrapene-mexicana-SauriaTestudines",
+       "unconstrained":0
+      },
+     "160_XM_018564029_1_Nanorana_parkeri_Anura":{
+       "MG94xREV with separate rates for branch sets":0.1894062605279897,
+       "Nucleotide GTR":0.1588237755583171,
+       "original name":"160-XM_018564029.1-Nanorana-parkeri-Anura",
+       "unconstrained":0.239867832246421
+      },
+     "161_XM_018225915_1_HspB5_like_Xenopus_laevis_Anura":{
+       "MG94xREV with separate rates for branch sets":0.06024102973832837,
+       "Nucleotide GTR":0.04664926113090385,
+       "original name":"161-XM_018225915.1-HspB5-like-Xenopus-laevis-Anura",
+       "unconstrained":0.06086512860280265
+      },
+     "162_XM_002932918_4_HspB5_Xenopus_tropicalis_Anura":{
+       "MG94xREV with separate rates for branch sets":0.04276542175248393,
+       "Nucleotide GTR":0.05661106155722168,
+       "original name":"162-XM_002932918.4-HspB5-Xenopus-tropicalis-Anura",
+       "unconstrained":0.0422101599528187
+      },
+     "170_XM_005987256_2_HspB5_Latimeria_chalumnae_Coelacanthidae":{
+       "MG94xREV with separate rates for branch sets":0.2848817341467993,
+       "Nucleotide GTR":0.197489143230013,
+       "original name":"170-XM_005987256.2-HspB5-Latimeria-chalumnae-Coelacanthidae",
+       "unconstrained":0.3421601853299872
+      },
+     "180_XM_012821983_1_HspB5_Clupea_harengus_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.2649167241246739,
+       "Nucleotide GTR":0.1787380265509027,
+       "original name":"180-XM_012821983.1-HspB5-Clupea-harengus-Otomorpha",
+       "unconstrained":0.392516700824644
+      },
+     "180a_ENSAMXT00000007540_2_Astyanax_mexicanus_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.07813817779087373,
+       "Nucleotide GTR":0.06027579715039263,
+       "original name":"180a-ENSAMXT00000007540.2-Astyanax-mexicanus-Otomorpha",
+       "unconstrained":0.07824226694051489
+      },
+     "180c_XM_026212446_1_HspB5_like_Carassius_auratus_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.02691984825306866,
+       "Nucleotide GTR":0.02267331372774245,
+       "original name":"180c-XM_026212446.1-HspB5-like-Carassius-auratus-Otomorpha",
+       "unconstrained":0.02710849085127294
+      },
+     "181_XM_019095482_1_HspB5_like_isoform_X1_Cyprinus_carpio_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.008023907509459461,
+       "Nucleotide GTR":0.007460800548508755,
+       "original name":"181-XM_019095482.1-HspB5-like-isoform-X1-Cyprinus-carpio-Otomorpha",
+       "unconstrained":0.008263896184916943
+      },
+     "182_NM_131157_1_HspB5_Danio_rerio_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.03525485991492631,
+       "Nucleotide GTR":0.05998623110654729,
+       "original name":"182-NM_131157.1-HspB5-Danio-rerio-Otomorpha",
+       "unconstrained":0.04186507226784992
+      },
+     "182a_XM_017699999_1_HspB5_Pygocentrus_nattereri_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.06993575877177534,
+       "Nucleotide GTR":0.05127364972168277,
+       "original name":"182a-XM_017699999.1-HspB5-Pygocentrus-nattereri-Otomorpha",
+       "unconstrained":0.06777776664448111
+      },
+     "182b_ENSIPUT00000034725_1_Ictalurus_punctatus_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.0151434457341747,
+       "Nucleotide GTR":0.01526608844092558,
+       "original name":"182b-ENSIPUT00000034725.1-Ictalurus-punctatus-Otomorpha",
+       "unconstrained":0.01474999293740768
+      },
+     "182c_XM_027031825_1_HspB5_isoform_X1_Electrophorus_electricus_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.1549097122606757,
+       "Nucleotide GTR":0.104607316555745,
+       "original name":"182c-XM_027031825.1-HspB5-isoform-X1-Electrophorus-electricus-Otomorpha",
+       "unconstrained":0.1634011005624416
+      },
+     "182e_XM_026921851_1_HspB5_like_Pangasianodon_hypophthalmus_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.02909362005590052,
+       "Nucleotide GTR":0.02734509366645912,
+       "original name":"182e-XM_026921851.1-HspB5-like-Pangasianodon-hypophthalmus-Otomorpha",
+       "unconstrained":0.02816116760821456
+      },
+     "183_XM_016490540_1_HspB5_like_Sinocyclocheilus_anshuiensis_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.007969350225605043,
+       "Nucleotide GTR":0.007458698951927595,
+       "original name":"183-XM_016490540.1-HspB5-like-Sinocyclocheilus-anshuiensis-Otomorpha",
+       "unconstrained":0.008178360514684875
+      },
+     "183a_XM_016295944_1_HspB5_like_Sinocyclocheilus_grahami_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.05535740746627721,
+       "Nucleotide GTR":0.04630462873177411,
+       "original name":"183a-XM_016295944.1-HspB5-like-Sinocyclocheilus-grahami-Otomorpha",
+       "unconstrained":0.05483384890398926
+      },
+     "184_XM_016518971_1_HspB5_Sinocyclocheilus_rhinocerous_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.0799790661054933,
+       "Nucleotide GTR":0.05731127324857895,
+       "original name":"184-XM_016518971.1-HspB5-Sinocyclocheilus-rhinocerous-Otomorpha",
+       "unconstrained":0.08156019844366541
+      },
+     "185_XM_027178619_1_HspB5_Tachysurus_fulvidraco_Otomorpha":{
+       "MG94xREV with separate rates for branch sets":0.05310836704378655,
+       "Nucleotide GTR":0.04227338835723953,
+       "original name":"185-XM_027178619.1-HspB5-Tachysurus-fulvidraco-Otomorpha",
+       "unconstrained":0.04684554208543856
+      },
+     "190_ENSAPOT00000005575_1_HspB5a_Acanthochromis_polyacanthus_Euteleosteomorpha":{
+       "MG94xREV with separate rates for branch sets":1.563597176626725,
+       "Nucleotide GTR":0.567764888754004,
+       "original name":"190-ENSAPOT00000005575.1-HspB5a-Acanthochromis-polyacanthus-Euteleosteomorpha",
+       "unconstrained":8.568160648546574
+      },
+     "231b_XM_023813558_1_HspB5_isoform_X1_Paramormyrops_kingsleyae_Osteoglossocephala":{
+       "MG94xREV with separate rates for branch sets":0.34422599631288,
+       "Nucleotide GTR":0.1800320343075529,
+       "original name":"231b-XM_023813558.1-HspB5-isoform-X1-Paramormyrops-kingsleyae-Osteoglossocephala",
+       "unconstrained":0.464617247281246
+      },
+     "231c_XM_018755058_1_HspB5_Scleropages_formosus_Osteoglossocephala":{
+       "MG94xREV with separate rates for branch sets":0.2113361712739945,
+       "Nucleotide GTR":0.133003343097791,
+       "original name":"231c-XM_018755058.1-HspB5-Scleropages-formosus-Osteoglossocephala",
+       "unconstrained":0.2725615506223478
+      },
+     "240_XM_007911619_1_HspB5_Callorhinchus_milii_Chondrichthyes":{
+       "MG94xREV with separate rates for branch sets":0.2741605842435216,
+       "Nucleotide GTR":0.1806172207401221,
+       "original name":"240-XM_007911619.1-HspB5-Callorhinchus-milii-Chondrichthyes",
+       "unconstrained":0.3297321580187212
+      },
+     "241_XM_020530352_1_HspB5_Rhincodon_typus_Chondrichthyes":{
+       "MG94xREV with separate rates for branch sets":0.3818603275482449,
+       "Nucleotide GTR":0.2157738039740864,
+       "original name":"241-XM_020530352.1-HspB5-Rhincodon-typus-Chondrichthyes",
+       "unconstrained":0.4516218595554564
+      },
+     "60a_XM_007537847_2_HspB5_Erinaceus_europaeus_Laurasitheria":{
+       "MG94xREV with separate rates for branch sets":0.0437240166394707,
+       "Nucleotide GTR":0.0412345176643252,
+       "original name":"60a-XM_007537847.2-HspB5-Erinaceus-europaeus-Laurasitheria",
+       "unconstrained":0.04447629675404988
+      },
+     "Node100":{
+       "MG94xREV with separate rates for branch sets":0.01642050718581669,
+       "Nucleotide GTR":0.007708695702940579,
+       "unconstrained":0.01449697557705922
+      },
+     "Node101":{
+       "MG94xREV with separate rates for branch sets":0.006864886384806525,
+       "Nucleotide GTR":0.006687233437550348,
+       "unconstrained":0.00666172804917541
+      },
+     "Node106":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.006523360454237103,
+       "unconstrained":0.004323587458850212
+      },
+     "Node11":{
+       "MG94xREV with separate rates for branch sets":0.007983347413128136,
+       "Nucleotide GTR":0.006722246166498683,
+       "unconstrained":0.008324578129422243
+      },
+     "Node111":{
+       "MG94xREV with separate rates for branch sets":0.006396851355152035,
+       "Nucleotide GTR":0.006647436011511593,
+       "unconstrained":0.006393574089986843
+      },
+     "Node112":{
+       "MG94xREV with separate rates for branch sets":0.006314354986440898,
+       "Nucleotide GTR":0.006640376590054712,
+       "unconstrained":0.006308301200870831
+      },
+     "Node117":{
+       "MG94xREV with separate rates for branch sets":0.0064446457760758,
+       "Nucleotide GTR":0.006646312849314034,
+       "unconstrained":0.006438861838550908
+      },
+     "Node120":{
+       "MG94xREV with separate rates for branch sets":0.006376963963768487,
+       "Nucleotide GTR":0.006582790475784614,
+       "unconstrained":0.006266543174213404
+      },
+     "Node121":{
+       "MG94xREV with separate rates for branch sets":0.01075529761346481,
+       "Nucleotide GTR":0.01022798368973571,
+       "unconstrained":0.009802094227644109
+      },
+     "Node123":{
+       "MG94xREV with separate rates for branch sets":0.003087263239299831,
+       "Nucleotide GTR":0.004482923150646493,
+       "unconstrained":0.004346521087490637
+      },
+     "Node126":{
+       "MG94xREV with separate rates for branch sets":0.006886958685701241,
+       "Nucleotide GTR":0.006840983618886401,
+       "unconstrained":0.007038240261319663
+      },
+     "Node13":{
+       "MG94xREV with separate rates for branch sets":0.01565340579510185,
+       "Nucleotide GTR":0.01395423643397537,
+       "unconstrained":0.016399514718846
+      },
+     "Node130":{
+       "MG94xREV with separate rates for branch sets":0.006379099476574602,
+       "Nucleotide GTR":0.006644594134105233,
+       "unconstrained":0.006366737212333157
+      },
+     "Node135":{
+       "MG94xREV with separate rates for branch sets":0.1701921333737293,
+       "Nucleotide GTR":0.06129211193060784,
+       "unconstrained":0.1942133716317291
+      },
+     "Node136":{
+       "MG94xREV with separate rates for branch sets":0.2170819980272103,
+       "Nucleotide GTR":0.08090923316395275,
+       "unconstrained":0.2254558734880338
+      },
+     "Node137":{
+       "MG94xREV with separate rates for branch sets":0.132213591876042,
+       "Nucleotide GTR":0.08233065489376473,
+       "unconstrained":0.171492987845892
+      },
+     "Node139":{
+       "MG94xREV with separate rates for branch sets":0.03356956194717909,
+       "Nucleotide GTR":0.02372770543853453,
+       "unconstrained":0
+      },
+     "Node14":{
+       "MG94xREV with separate rates for branch sets":0.02986271272119984,
+       "Nucleotide GTR":0.02480654637951708,
+       "unconstrained":0.03187219813969858
+      },
+     "Node140":{
+       "MG94xREV with separate rates for branch sets":0.4108830559428884,
+       "Nucleotide GTR":0.1856989892512449,
+       "unconstrained":0.596535996927663
+      },
+     "Node143":{
+       "MG94xREV with separate rates for branch sets":0.1641127777246495,
+       "Nucleotide GTR":0.1679908427381927,
+       "unconstrained":0.09076978058310838
+      },
+     "Node145":{
+       "MG94xREV with separate rates for branch sets":0.2130684718886467,
+       "Nucleotide GTR":0.09319932599869592,
+       "unconstrained":0.5623279264224884
+      },
+     "Node148":{
+       "MG94xREV with separate rates for branch sets":0.3318564744999281,
+       "Nucleotide GTR":0.1077348116762099,
+       "unconstrained":0.4716043436726784
+      },
+     "Node149":{
+       "MG94xREV with separate rates for branch sets":0.07060550967710014,
+       "Nucleotide GTR":0.03735713070620266,
+       "unconstrained":0.0833550481921109
+      },
+     "Node151":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.0279457101641619,
+       "unconstrained":0
+      },
+     "Node154":{
+       "MG94xREV with separate rates for branch sets":0.07854866704800921,
+       "Nucleotide GTR":0.04389296678749598,
+       "unconstrained":0.08078730284514668
+      },
+     "Node156":{
+       "MG94xREV with separate rates for branch sets":0.05023079584355958,
+       "Nucleotide GTR":0.01751326366132432,
+       "unconstrained":0.0521155087259307
+      },
+     "Node157":{
+       "MG94xREV with separate rates for branch sets":0.1576179757655041,
+       "Nucleotide GTR":0.1012535614308465,
+       "unconstrained":0.1836640462556086
+      },
+     "Node161":{
+       "MG94xREV with separate rates for branch sets":0.006880568746751696,
+       "Nucleotide GTR":0.007496112893917474,
+       "unconstrained":0.007843487764578994
+      },
+     "Node164":{
+       "MG94xREV with separate rates for branch sets":0.04121982480972763,
+       "Nucleotide GTR":0.03603457885671581,
+       "unconstrained":0.0365920870756227
+      },
+     "Node165":{
+       "MG94xREV with separate rates for branch sets":0.03181791195813578,
+       "Nucleotide GTR":0.0191627635479242,
+       "unconstrained":0.03397891238157302
+      },
+     "Node166":{
+       "MG94xREV with separate rates for branch sets":0.005593014030604808,
+       "Nucleotide GTR":0.02756950636797,
+       "unconstrained":0.01270051833186087
+      },
+     "Node168":{
+       "MG94xREV with separate rates for branch sets":0.113595391398731,
+       "Nucleotide GTR":0.08299849991743075,
+       "unconstrained":0.1111929772158243
+      },
+     "Node17":{
+       "MG94xREV with separate rates for branch sets":0.005798541683041436,
+       "Nucleotide GTR":0.006490412220366773,
+       "unconstrained":0.005006060695321651
+      },
+     "Node170":{
+       "MG94xREV with separate rates for branch sets":0.009296543817731514,
+       "Nucleotide GTR":0.01848624043985473,
+       "unconstrained":0.01538172098140757
+      },
+     "Node175":{
+       "MG94xREV with separate rates for branch sets":0.4272617293920037,
+       "Nucleotide GTR":0.2467775594459087,
+       "unconstrained":0.6495062338597293
+      },
+     "Node177":{
+       "MG94xREV with separate rates for branch sets":0.1331330319744551,
+       "Nucleotide GTR":0.09861511932670289,
+       "unconstrained":0.1405703632625886
+      },
+     "Node184":{
+       "MG94xREV with separate rates for branch sets":0.0144244024181765,
+       "Nucleotide GTR":0.01353787112025243,
+       "unconstrained":0.01458642545779342
+      },
+     "Node190":{
+       "MG94xREV with separate rates for branch sets":0.007052956622103788,
+       "Nucleotide GTR":0.006721015787743971,
+       "unconstrained":0.007026376213804264
+      },
+     "Node192":{
+       "MG94xREV with separate rates for branch sets":0.007127617331638313,
+       "Nucleotide GTR":0.006725998277925732,
+       "unconstrained":0.007150139443509024
+      },
+     "Node195":{
+       "MG94xREV with separate rates for branch sets":0.007110118026461229,
+       "Nucleotide GTR":0.006722699993064958,
+       "unconstrained":0.007139670227557304
+      },
+     "Node2":{
+       "MG94xREV with separate rates for branch sets":0.007059026303915449,
+       "Nucleotide GTR":0.006735400698765848,
+       "unconstrained":0.007236028297580502
+      },
+     "Node20":{
+       "MG94xREV with separate rates for branch sets":0.006128104562587416,
+       "Nucleotide GTR":0.006394979067016574,
+       "unconstrained":0
+      },
+     "Node209":{
+       "MG94xREV with separate rates for branch sets":0.007155233296671931,
+       "Nucleotide GTR":0.006729481798500485,
+       "unconstrained":0.007167043388664947
+      },
+     "Node21":{
+       "MG94xREV with separate rates for branch sets":0.007489835494668791,
+       "Nucleotide GTR":0.006832059813282265,
+       "unconstrained":0.007799905542150301
+      },
+     "Node210":{
+       "MG94xREV with separate rates for branch sets":0.01470863632074857,
+       "Nucleotide GTR":0.01354266693839139,
+       "unconstrained":0.01470844068823932
+      },
+     "Node216":{
+       "MG94xREV with separate rates for branch sets":0.007394315731942137,
+       "Nucleotide GTR":0.007240380318114258,
+       "unconstrained":0.00741384523645194
+      },
+     "Node217":{
+       "MG94xREV with separate rates for branch sets":0.00717544681685232,
+       "Nucleotide GTR":0.006335867097295234,
+       "unconstrained":0.007045806129555037
+      },
+     "Node223":{
+       "MG94xREV with separate rates for branch sets":0.01428992409616841,
+       "Nucleotide GTR":0.01339054247353041,
+       "unconstrained":0.0131670613560715
+      },
+     "Node228":{
+       "MG94xREV with separate rates for branch sets":0.007170498176383506,
+       "Nucleotide GTR":0.006729641596624014,
+       "unconstrained":0.00717463600907866
+      },
+     "Node23":{
+       "MG94xREV with separate rates for branch sets":0.01077291614446713,
+       "Nucleotide GTR":0.00748230465727038,
+       "unconstrained":0.01154451789838813
+      },
+     "Node233":{
+       "MG94xREV with separate rates for branch sets":0.02179718562181226,
+       "Nucleotide GTR":0.02033850700420536,
+       "unconstrained":0.02163602685353391
+      },
+     "Node235":{
+       "MG94xREV with separate rates for branch sets":0.01427531646983667,
+       "Nucleotide GTR":0.01352970040788869,
+       "unconstrained":0.01399250402711667
+      },
+     "Node237":{
+       "MG94xREV with separate rates for branch sets":0.006892438370639353,
+       "Nucleotide GTR":0.006859131119237246,
+       "unconstrained":0.007705293940015572
+      },
+     "Node238":{
+       "MG94xREV with separate rates for branch sets":0.01565642599380649,
+       "Nucleotide GTR":0.01377582720769587,
+       "unconstrained":0.01521520343457183
+      },
+     "Node240":{
+       "MG94xREV with separate rates for branch sets":0.008442319849855665,
+       "Nucleotide GTR":0.006918915475305899,
+       "unconstrained":0.007216897283301891
+      },
+     "Node243":{
+       "MG94xREV with separate rates for branch sets":0.01577742170000809,
+       "Nucleotide GTR":0.0137015358690422,
+       "unconstrained":0.01437246667951429
+      },
+     "Node25":{
+       "MG94xREV with separate rates for branch sets":0.0255575873285128,
+       "Nucleotide GTR":0.02672509453288044,
+       "unconstrained":0.017397466002602
+      },
+     "Node251":{
+       "MG94xREV with separate rates for branch sets":0.007186239299767539,
+       "Nucleotide GTR":0.006729506155989644,
+       "unconstrained":0.007210415762427667
+      },
+     "Node253":{
+       "MG94xREV with separate rates for branch sets":0.02184286282798281,
+       "Nucleotide GTR":0.02038072354903198,
+       "unconstrained":0.02230764503367746
+      },
+     "Node255":{
+       "MG94xREV with separate rates for branch sets":0.02292509739928308,
+       "Nucleotide GTR":0.02073683019397188,
+       "unconstrained":0.02367841650892178
+      },
+     "Node258":{
+       "MG94xREV with separate rates for branch sets":0.007213136639390403,
+       "Nucleotide GTR":0.006731801673316756,
+       "unconstrained":0.007354148351911692
+      },
+     "Node261":{
+       "MG94xREV with separate rates for branch sets":0.01435749508045495,
+       "Nucleotide GTR":0.01353774957992215,
+       "unconstrained":0.01451520168087778
+      },
+     "Node267":{
+       "MG94xREV with separate rates for branch sets":0.007360701272695961,
+       "Nucleotide GTR":0.006757961932388701,
+       "unconstrained":0.00743388332452349
+      },
+     "Node268":{
+       "MG94xREV with separate rates for branch sets":0.006764944921557041,
+       "Nucleotide GTR":0.006824818986009218,
+       "unconstrained":0.006752844678409147
+      },
+     "Node270":{
+       "MG94xREV with separate rates for branch sets":0.007954794014520159,
+       "Nucleotide GTR":0.006684937768481901,
+       "unconstrained":0.007776127279337849
+      },
+     "Node272":{
+       "MG94xREV with separate rates for branch sets":0.007471172111224307,
+       "Nucleotide GTR":0.006880189752248032,
+       "unconstrained":0.007798830976048237
+      },
+     "Node274":{
+       "MG94xREV with separate rates for branch sets":0.006022249662847471,
+       "Nucleotide GTR":0.006489340476074393,
+       "unconstrained":0.006406519839877456
+      },
+     "Node277":{
+       "MG94xREV with separate rates for branch sets":0.007194215546337443,
+       "Nucleotide GTR":0.006755155206714503,
+       "unconstrained":0.007203338460354862
+      },
+     "Node28":{
+       "MG94xREV with separate rates for branch sets":0.008840419127096549,
+       "Nucleotide GTR":0.006889234552198097,
+       "unconstrained":0.01043076571619162
+      },
+     "Node281":{
+       "MG94xREV with separate rates for branch sets":0.007986072127850614,
+       "Nucleotide GTR":0.006846319683117993,
+       "unconstrained":0.008382855625872411
+      },
+     "Node284":{
+       "MG94xREV with separate rates for branch sets":0.007731466722964094,
+       "Nucleotide GTR":0.006888366575286578,
+       "unconstrained":0.007552805109391117
+      },
+     "Node286":{
+       "MG94xREV with separate rates for branch sets":0.006977794045345534,
+       "Nucleotide GTR":0.00658883424382335,
+       "unconstrained":0.007493975917987762
+      },
+     "Node3":{
+       "MG94xREV with separate rates for branch sets":0.01464550854760661,
+       "Nucleotide GTR":0.01355859303451479,
+       "unconstrained":0.01500984218697236
+      },
+     "Node32":{
+       "MG94xREV with separate rates for branch sets":0.03152413695682711,
+       "Nucleotide GTR":0.02789946305564124,
+       "unconstrained":0.03203226986305947
+      },
+     "Node34":{
+       "MG94xREV with separate rates for branch sets":0.01650186180875036,
+       "Nucleotide GTR":0.01363925234458144,
+       "unconstrained":0.01843548298964973
+      },
+     "Node37":{
+       "MG94xREV with separate rates for branch sets":0.02327154776555643,
+       "Nucleotide GTR":0.02073452221048497,
+       "unconstrained":0.02284552855886252
+      },
+     "Node40":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.00669541684069237,
+       "unconstrained":0
+      },
+     "Node41":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.0001741029937025644,
+       "unconstrained":0
+      },
+     "Node42":{
+       "MG94xREV with separate rates for branch sets":0.02221500467243548,
+       "Nucleotide GTR":0.01581970969941678,
+       "unconstrained":0.01986189352016779
+      },
+     "Node45":{
+       "MG94xREV with separate rates for branch sets":0.1242434388007626,
+       "Nucleotide GTR":0.09190379905005493,
+       "unconstrained":0.145658398399081
+      },
+     "Node46":{
+       "MG94xREV with separate rates for branch sets":0.01682527659391518,
+       "Nucleotide GTR":0.01997459994072899,
+       "unconstrained":0.02019497242355765
+      },
+     "Node49":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.02826613770673796,
+       "unconstrained":0
+      },
+     "Node5":{
+       "MG94xREV with separate rates for branch sets":0.02291806861723452,
+       "Nucleotide GTR":0.02072476512031623,
+       "unconstrained":0.02294990952052474
+      },
+     "Node51":{
+       "MG94xREV with separate rates for branch sets":0.08474348445468123,
+       "Nucleotide GTR":0.1018670341076423,
+       "unconstrained":0.1595215459039669
+      },
+     "Node52":{
+       "MG94xREV with separate rates for branch sets":0.2790784332970682,
+       "Nucleotide GTR":0.1688706833435289,
+       "unconstrained":0.3777558001707025
+      },
+     "Node53":{
+       "MG94xREV with separate rates for branch sets":0.2339947003768431,
+       "Nucleotide GTR":0.1436728878349935,
+       "unconstrained":0.2778419355543839
+      },
+     "Node56":{
+       "MG94xREV with separate rates for branch sets":0.04222093029975176,
+       "Nucleotide GTR":0.01932835553281931,
+       "unconstrained":0.04490393806955678
+      },
+     "Node57":{
+       "MG94xREV with separate rates for branch sets":0.08112535474578932,
+       "Nucleotide GTR":0.1098954459027283,
+       "unconstrained":0.0883529011275493
+      },
+     "Node60":{
+       "MG94xREV with separate rates for branch sets":0.04692827565341143,
+       "Nucleotide GTR":0.03116618290720618,
+       "unconstrained":0.05589558689931307
+      },
+     "Node61":{
+       "MG94xREV with separate rates for branch sets":0.188504928560249,
+       "Nucleotide GTR":0.1107007963041121,
+       "unconstrained":0.2232591723835804
+      },
+     "Node64":{
+       "MG94xREV with separate rates for branch sets":0.1436842857295365,
+       "Nucleotide GTR":0.1106666292598805,
+       "unconstrained":0.1609376018147582
+      },
+     "Node65":{
+       "MG94xREV with separate rates for branch sets":0.07561690223908525,
+       "Nucleotide GTR":0.05767752632392905,
+       "unconstrained":0.08605549752754377
+      },
+     "Node68":{
+       "MG94xREV with separate rates for branch sets":0.04273144102473622,
+       "Nucleotide GTR":0.04301896647469549,
+       "unconstrained":0.03901864521976129
+      },
+     "Node69":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":0.01256573869678085,
+       "unconstrained":0
+      },
+     "Node70":{
+       "MG94xREV with separate rates for branch sets":0.01055258767313481,
+       "Nucleotide GTR":0.007520936795024931,
+       "unconstrained":0.009053063579987339
+      },
+     "Node72":{
+       "MG94xREV with separate rates for branch sets":0.04255687008992667,
+       "Nucleotide GTR":0.04117737572885818,
+       "unconstrained":0.0438362318835321
+      },
+     "Node75":{
+       "MG94xREV with separate rates for branch sets":0.01150790335670156,
+       "Nucleotide GTR":0.01359927765506415,
+       "unconstrained":0.01400281046794927
+      },
+     "Node76":{
+       "MG94xREV with separate rates for branch sets":0.02857851251948488,
+       "Nucleotide GTR":0.02670094810428058,
+       "unconstrained":0.02923655845568381
+      },
+     "Node77":{
+       "MG94xREV with separate rates for branch sets":0.02003686676029465,
+       "Nucleotide GTR":0.02004137183336611,
+       "unconstrained":0.02073431413476064
+      },
+     "Node78":{
+       "MG94xREV with separate rates for branch sets":0.05039327336748824,
+       "Nucleotide GTR":0.04217080374202185,
+       "unconstrained":0.05107150876644981
+      },
+     "Node8":{
+       "MG94xREV with separate rates for branch sets":0.007631018451834792,
+       "Nucleotide GTR":0.006796006010195879,
+       "unconstrained":0.007369427522250274
+      },
+     "Node81":{
+       "MG94xREV with separate rates for branch sets":0.008397591855691168,
+       "Nucleotide GTR":0.006925683420362437,
+       "unconstrained":0.008477590650267812
+      },
+     "Node83":{
+       "MG94xREV with separate rates for branch sets":0.01404038679504317,
+       "Nucleotide GTR":0.01343934205870251,
+       "unconstrained":0.01438853291318284
+      },
+     "Node84":{
+       "MG94xREV with separate rates for branch sets":0.006979656474928778,
+       "Nucleotide GTR":0.006686648709515348,
+       "unconstrained":0.007201841928378559
+      },
+     "Node86":{
+       "MG94xREV with separate rates for branch sets":0.00693725944691493,
+       "Nucleotide GTR":0.006675041467958066,
+       "unconstrained":0.007127507503719795
+      },
+     "Node88":{
+       "MG94xREV with separate rates for branch sets":0.007278543953860889,
+       "Nucleotide GTR":0.006754277301306529,
+       "unconstrained":0.007528379390806882
+      },
+     "Node95":{
+       "MG94xREV with separate rates for branch sets":0.006375451020363981,
+       "Nucleotide GTR":0.007223995808852621,
+       "unconstrained":0.006477619373969854
+      },
+     "Node98":{
+       "MG94xREV with separate rates for branch sets":0.0151184566424236,
+       "Nucleotide GTR":0.007015593811524595,
+       "unconstrained":0.01576036381392542
+      },
+     "XM_006642147_2_HspB5_Lepisosteus_oculatus_Holostei":{
+       "MG94xREV with separate rates for branch sets":0.3873830238006408,
+       "Nucleotide GTR":0.1604261076884539,
+       "original name":"XM_006642147.2-HspB5-Lepisosteus-oculatus-Holostei",
+       "unconstrained":0.4121071337066458
+      },
+     "XM_008577609_1_HspB5_isoform_X1_Galeopterus_variegatus_Euarchontoglires":{
+       "MG94xREV with separate rates for branch sets":0.02173595529895395,
+       "Nucleotide GTR":0.02041451711852999,
+       "original name":"XM_008577609.1-HspB5-isoform-X1-Galeopterus-variegatus-Euarchontoglires",
+       "unconstrained":0.02180988817652614
+      },
+     "XM_017517682_1_HspB5_Cebus_capucinus_Primates":{
+       "MG94xREV with separate rates for branch sets":0.007031454331960642,
+       "Nucleotide GTR":0.006735976492581331,
+       "original name":"XM_017517682.1-HspB5-Cebus-capucinus-Primates",
+       "unconstrained":0.006987191680706356
+      },
+     "XM_026105876_1_HspB5_Dromaius_novaehollandiae_SauriaTestudines":{
+       "MG94xREV with separate rates for branch sets":0.05193629674465396,
+       "Nucleotide GTR":0.03863926233516996,
+       "original name":"XM_026105876.1-HspB5-Dromaius-novaehollandiae-SauriaTestudines",
+       "unconstrained":0.05180195999414049
+      }
+    },
+   "attributes":{
+     "MG94xREV with separate rates for branch sets":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":0
+      },
+     "unconstrained":{
+       "attribute type":"branch length",
+       "display order":0
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49] 
+      ],
+     "name":"busted.filter.default"
+    }
+  },
+ "fits":{
+   "MG94xREV with separate rates for branch sets":{
+     "AIC-c":10107.34414282707,
+     "Equilibrium frequencies":      [
+[0.003504533320323826],
+      [0.02005672985568707],
+      [0.008912042770822597],
+      [0.007919570003671104],
+      [0.003952985647142772],
+      [0.02262325907656797],
+      [0.01005245889815908],
+      [0.008932985848501383],
+      [0.002502336236787424],
+      [0.01432107425496083],
+      [0.006363451430151656],
+      [0.00565479771159081],
+      [0.004989891729726414],
+      [0.02855755710806084],
+      [0.01268931536738438],
+      [0.01127619379023519],
+      [0.007936861962278292],
+      [0.04542330796403578],
+      [0.02018347289316203],
+      [0.01793577865424012],
+      [0.008952490546541713],
+      [0.05123583313825873],
+      [0.02276622059589732],
+      [0.02023090354980263],
+      [0.005667144660720057],
+      [0.03243353083675594],
+      [0.01441157238023042],
+      [0.01280665491214571],
+      [0.01130081475781006],
+      [0.06467548401725981],
+      [0.02873801880629298],
+      [0.02553766376081325],
+      [0.003164849295507572],
+      [0.01811269049315004],
+      [0.008048224886663373],
+      [0.007151949562438573],
+      [0.003569834467818767],
+      [0.02043045364566415],
+      [0.009078103859779493],
+      [0.008067138013912893],
+      [0.00225979220405528],
+      [0.01293297498525035],
+      [0.005746660948811067],
+      [0.005106694934238012],
+      [0.004506236317942744],
+      [0.02578955776243333],
+      [0.01145937764895585],
+      [0.01018322575678495],
+      [0.03591667455217028],
+      [0.01418200376938971],
+      [0.007078825911272341],
+      [0.04051269770341578],
+      [0.01800148365621389],
+      [0.01599678251680655],
+      [0.02564552481655153],
+      [0.01139537779537342],
+      [0.01012635312570534],
+      [0.008935669902156652],
+      [0.05113956721934928],
+      [0.02272344562745199],
+      [0.02019289213471868] 
+      ],
+     "Log Likelihood":-4772.330881739013,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *test*":        [
+[0.1062360672238436, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":271
+    },
+   "Nucleotide GTR":{
+     "AIC-c":11024.3946282925,
+     "Equilibrium frequencies":      [
+[0.1563892678490223],
+      [0.3904956798544793],
+      [0.1778535698044566],
+      [0.2752614824920419] 
+      ],
+     "Log Likelihood":-5212.183617392379,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.3168592084461148,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.3212390639358599,
+       "Substitution rate from nucleotide C to nucleotide G":0.3611986381516723,
+       "Substitution rate from nucleotide C to nucleotide T":0.7706284084315047,
+       "Substitution rate from nucleotide G to nucleotide T":0.1938553712746253
+      },
+     "display order":0,
+     "estimated parameters":296
+    },
+   "Unconstrained model":{
+     "AIC-c":10016.49791009353,
+     "Log Likelihood":-4717.196840985801,
+     "Rate Distributions":{
+       "Synonymous site-to-site rates":{
+         "0":{
+           "proportion":0.1539672604449597,
+           "rate":0.3430937420461471
+          },
+         "1":{
+           "proportion":0.4373268488108885,
+           "rate":0.7749373916277756
+          },
+         "2":{
+           "proportion":0.4087058907441518,
+           "rate":1.488292394923707
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0.002950539939416726,
+           "proportion":0.5195912106717975
+          },
+         "1":{
+           "omega":0.1993592502242477,
+           "proportion":0.4804087893282025
+          },
+         "2":{
+           "omega":1.002310216098677,
+           "proportion":0
+          }
+        }
+      },
+     "display order":2,
+     "estimated parameters":280
+    }
+  },
+ "input":{
+   "file name":"/home/aglucaci/sHSPs/data/HspB5/sections/HspB5_RNA_M1-P51.fasta",
+   "number of sequences":148,
+   "number of sites":50,
+   "partition count":1,
+   "trees":{
+     "0":"(012_XM_003794732_3_HspB5_Otolemur_garnettii_Primates,((056_XM_004689273_2_HspB5_Condylura_cristata_Laurasitheria,(050_NM_001304874_1_HspB5_Ailuropoda_melanoleuca_Laurasitheria,081_XM_008690086_1_HspB5_Ursus_maritimus_Laurasotheria)Node5)Node3,(((100a_XM_004708973_2_HspB5_Echinops_telfairi_Afrotheria,(042_XM_008832795_1_HspB5_Nannospalax_galili_GliresScandentia,((038_XM_021658661_1_HspB5_Meriones_unguiculatus_GliresScandentia,040_XM_005347316_3_HspB5_Microtus_ochrogaster_GliresScandentia)Node37,(046_NM_012935_4_HspB5_Rattus_norvegicus_GliresScandentia,(041_NM_001289785_1_HspB5_Mus_musculus_GliresScandentia,041a_XM_021206500_1_Hspb5_variant_X3_Mus_pahari_GliresScandentia)Node34)Node32,(033_XM_016968238_1_HspB5_variantX7_Cricetulus_griseus_GliresScandentia,045_XM_015987087_1_HspB5_Peromyscus_maniculatus_GliresScandentia)Node28,039_XM_013113005_2_HspB5_Mesocricetus_auratus_GliresScandentia)Node25)Node23)Node21,(((064_XM_017659392_1_HspB5_Manis_javanica_Laurasitheria,031_NM_001173076_1_HspB5_Cavia_porcellus_GliresScandentia)Node42,((111_XM_001371207_3_HspB5_Monodelphis_domestica_Metatheria,113_XM_020989782_1_HspB5_Phascolarctos_cinereus_Metatheria)Node46,(110_XM_003764224_2_HspB5_Sarcophilus_harrisii_Metatheria,(((122_XM_008121072_2_HspB5_Anolis_carolinensis_SauriaTestudines,135_XM_015415588_1_HspB5_isoform_X1_Gekko_japonicus_SauriaTestudines)Node53,((126_XM_005291386_3_HspB5_Chrysemys_picta_SauriaTestudines,144a_XM_024207189_2_HspB5_Terrapene_mexicana_SauriaTestudines)Node57,((120_XM_006271349_3_HspB5_isoform_X1_Alligator_mississippiensis_SauriaTestudines,129_XM_019547110_1_HspB5_isoform_X1_Crocodylus_porosus_SauriaTestudines)Node61,((XM_026105876_1_HspB5_Dromaius_novaehollandiae_SauriaTestudines,139a_XM_026041046_1_HspB5_Nothoprocta_perdicaria_SauriaTestudines)Node65,(((121a_NM_001310366_1_HspB5_Anas_platyrhynchos_SauriaTestudines,(128_XM_015883834_1_HspB5_Coturnix_japonica_SauriaTestudines,134_NM_205176_1_HspB5_Gallus_gallus_SauriaTestudines)Node72)Node70,((((125c_XM_009997410_1_HspB5_Chaetura_pelagica_SauriaTestudines,125_XM_008492420_1_HspB5_Calypte_anna_SauriaTestudines)Node78,(127_XM_008636923_2_HspB5_Corvus_brachyrhynchos_SauriaTeatudines,((133_XM_005058800_1_HspB5_Ficedula_albicollis_SauriaTestudines,(138_XM_021530106_1_HspB5_isoform_X1_Lonchura_striata_SauriaTestudines,(143_XM_009098028_2_HspB5_Serinus_canaria_SauriaTestudines,144_XM_002192884_3_HspB5_Taeniopygia_guttata_SauriaTestudines)Node88)Node86)Node84,139b_XM_015649982_1_HspB5_isoform_X1_Parus_major_SauriaTestudines,142_XM_005531058_2_HspB5_Pseudopodoces_humilis_SauriaTestudines)Node83)Node81)Node77,137_XM_017809764_1_HspB5_Lepidothrix_coronata_SauriaTestudines)Node76,(131_XM_005440198_1_HspB5_Falco_cherrug_SauriaTestudines,132_XM_005236602_1_HspB5_Falco_peregrinus_SauriaTestudines)Node95)Node75)Node69,(138a_XM_008935459_1_HspB5_Merops_nubicus_SauriaTestudines,((122a_XM_009870055_1_122a_Apaloderma_vittatum_SauriaTestudines,122b_XM_026863824_1_HspB5_Athene_cunicularia_SauriaTestudines,126a_XM_021285292_1_HspB5_Columba_livia_SauriaTestudines)Node101,(123a_XM_010298661_1_HspB5_Balearica_regulorum_SauriaTestudines,123_XM_011601882_1_HspB5_Aquila_chrysaetos_SauriaTestudines,139_XM_009472271_1_HspB5_Nipponia_nippon_SauriaTestudines,((136_XM_010575003_1_HspB5_Haliaeetus_leucocephalus_SauriaTestudines,136a_XM_009917256_1_HspB5_Haliaeetus_albicilla_SauriaTestudines)Node112,139c_XM_009944637_1_HspB5_Opisthocomus_hoazin_SauriaTestudines)Node111,(123b_XM_010142606_1_HspB5_Buceros_rhinoceros_SauriaTestudines,((122c_XM_010169584_1_HspB5_Antrostomus_carolinensis_SauriaTestudines,(124_XM_014949523_1_HspB5_Calidris_pugnax_SauriaTestudines,125d_XM_009882443_1_HspB5_Charadrius_vociferus_SauriaTestudines)Node123)Node121,(125a_XM_009696584_1_HspB5_Cariama_cristata_SauriaTestudines,130_XM_009569900_1_HspB5_Cuculus_canorus_SauriaTestudines)Node126)Node120,134a_XM_009810695_1_HspB5_Gavia_stellata_SauriaTestudines)Node117,(139d_XM_009485675_1_HspB5_Pelecanus_crispus_SauriaTestudines,130b_XM_009638415_1_HspB5_Egretta_garzetta_SauriaTestudines)Node130)Node106)Node100)Node98)Node68)Node64)Node60)Node56)Node52,(((170_XM_005987256_2_HspB5_Latimeria_chalumnae_Coelacanthidae,((240_XM_007911619_1_HspB5_Callorhinchus_milii_Chondrichthyes,241_XM_020530352_1_HspB5_Rhincodon_typus_Chondrichthyes)Node140,(190_ENSAPOT00000005575_1_HspB5a_Acanthochromis_polyacanthus_Euteleosteomorpha,(182_NM_131157_1_HspB5_Danio_rerio_Otomorpha,184_XM_016518971_1_HspB5_Sinocyclocheilus_rhinocerous_Otomorpha)Node145)Node143)Node139)Node137,((XM_006642147_2_HspB5_Lepisosteus_oculatus_Holostei,(231b_XM_023813558_1_HspB5_isoform_X1_Paramormyrops_kingsleyae_Osteoglossocephala,231c_XM_018755058_1_HspB5_Scleropages_formosus_Osteoglossocephala)Node151)Node149,(180_XM_012821983_1_HspB5_Clupea_harengus_Otomorpha,((183a_XM_016295944_1_HspB5_like_Sinocyclocheilus_grahami_Otomorpha,180c_XM_026212446_1_HspB5_like_Carassius_auratus_Otomorpha,(181_XM_019095482_1_HspB5_like_isoform_X1_Cyprinus_carpio_Otomorpha,183_XM_016490540_1_HspB5_like_Sinocyclocheilus_anshuiensis_Otomorpha)Node161)Node157,(((182c_XM_027031825_1_HspB5_isoform_X1_Electrophorus_electricus_Otomorpha,(185_XM_027178619_1_HspB5_Tachysurus_fulvidraco_Otomorpha,(182b_ENSIPUT00000034725_1_Ictalurus_punctatus_Otomorpha,182e_XM_026921851_1_HspB5_like_Pangasianodon_hypophthalmus_Otomorpha)Node170)Node168)Node166,182a_XM_017699999_1_HspB5_Pygocentrus_nattereri_Otomorpha)Node165,180a_ENSAMXT00000007540_2_Astyanax_mexicanus_Otomorpha)Node164)Node156)Node154)Node148)Node136,(160_XM_018564029_1_Nanorana_parkeri_Anura,(161_XM_018225915_1_HspB5_like_Xenopus_laevis_Anura,162_XM_002932918_4_HspB5_Xenopus_tropicalis_Anura)Node177)Node175)Node135)Node51)Node49)Node45)Node41,079_XM_004604685_2_HspB5_Sorex_araneus_Laurasitheria)Node40)Node20,037a_XM_015489896_1_HspB5_Marmota_marmota_GliresScandentia,(037_XM_004666484_2_HspB5_Jaculus_jaculus_GliresScadentia,((035_XM_010610684_2_HspB5_Fukomys_damarensis_GliresScenadentia,036_NM_001279857_2_HspB5_Heterocephalus_glaber_GliresScandentia)Node14,(032_XM_005378100_2_HspB5_Chinchilla_lanigera_GliresScandentia,044_XM_004646354_3_HspB5_Octodon_degus_GliresScandentia)Node17)Node13)Node11)Node8)Node2,(059_XM_008150161_1_HspB5_Eptesicus_fuscus_Laurasitheria,(043_XM_012926934_1_HspB5_transcript_X1_Ochotona_princeps_GliresScandentia,044a_NM_001082407_1_HspB5_Oryctolagus_cuniculus_GliresScandentia)Node286)Node284,((005_XM_008020848_1_HspB5_Chlorocebus_sabaeus_Primates,(015a_XM_010382343_1_HspB5_Rhinopithecus_roxellana_Primates,(001_NM_001885_2_HspB5_Homo_sapiens_Primates,007_XM_004052118_2_HspB5_Gorilla_gorilla_Primates,013_XM_016921980_2_HspB5_Pan_troglodytes_Primates,014_XM_009247045_2_HspB5_isoform_X1_Pongo_abelii_Primates,012b_XM_003805460_4_HspB5_Pan_paniscus_Primates)Node195,001b_XM_011926733_1_HspB5_Colobus_angolensis_Primates,004b_XM_012066401_1_HspB5_Cercocebus_atys_Primates,008_XM_015435350_1_HspB5_isoform_X1_Macaca_fascicularis_Primates,009_NM_001260901_1_HspB5_Macaca_mulatta_Primates,011_XM_004090563_2_HspB5_Nomascus_leucogenys_Primates)Node192)Node190,XM_017517682_1_HspB5_Cebus_capucinus_Primates,002_XM_002754383_3_HspB5_Callithrix_jacchus_Primates,016_XM_010334574_1_HspB5_transcript_variant_X1_Saimiri_boliviensis_Primates)Node184,((073a_XM_019469186_1_HspB5_Panthera_pardus_Laurasitheria,061_XM_011286345_3_HspB5_Felis_catus_Laurasitheria,073_XM_015542578_1_HspB5_Panthera_tigris_Laurasitheria)Node210,((082_XM_006217871_2_HspB5_isoform_X1_Vicugna_pacos_Laurasitheria,053_XM_006190373_2_HspB5_isoform_X1_Camelus_ferus_Laurasitheria,053a_KJ174932_1_HspB5_stopcodon_missing_Camelus_dromedarius_Laurasitheria,053a_XM_010985982_1_HspB5_NShortened_Camelus_dromedarius_Laurasitheria)Node217,(030_XM_020175744_1_HspB5_Castor_canadensis_GliresScandentia,102_XM_003415624_3_HspB5_Loxodonta_africana_Aftrotheria)Node223)Node216,003_XM_008065587_2_HspB5_isoform_X1_Carlito_syrichta_Primates)Node209,(070_XM_012567097_1_HspB5_Odobenus_rosmarus_Laurasitheria,054_XM_857165_5_HspB5_Canis_lupus_Laurasitheria,066_XM_004749799_2_HspB5_Mustela_putorius_Laurasitheria,(058_XM_022512857_1_HspB2_transcript_variant_X2_Enhydra_lutris_Laurasiathera,(080_XM_021062779_1_HspB5_variant_X3_Sus_scrofa_Laurasitheria,((072_NM_001012457_2_HspB5_Ovis_aries_Laurasitheria,(050b_XM_019975270_1_HspB5_Bos_indicus_Laurasitheria,052_NM_174290_2_HspB5_Bos_taurus_Laurasitheria)Node240)Node238,(063_XM_007464652_1_HspB5_Lipotes_vexillifer_Laurasitheria,075_XM_007128267_2_HspB5_Physeter_catodon_Laurasitheria,057_XM_022561589_1_HspB5_Delphinapterus_leucas_Laurasiathera,071_XM_004273414_2_HspB5_Orcinus_orca_Laurasitheria)Node243)Node237)Node235)Node233)Node228,(((115_XM_004481144_3_HspB5_Dasypus_novemcinctus_Xenarthra,(XM_008577609_1_HspB5_isoform_X1_Galeopterus_variegatus_Euarchontoglires,(103_XM_007936553_1_HspB5_Orycteropus_afer_Afrotheria,(103a_ENSPCAT00000001647_1_HspB5_Procavia_capensis_Aftrotheria,104_XM_004382499_3_HspB5_Trichechus_manatus_Afrotheria)Node274)Node272)Node270)Node268,(055_XM_004427339_2_HspB5_Ceratotherium_simum_Laurasitheria,015_XM_012659198_1_HspB5_Propithecus_coquereli_Primates,(010_XM_012749592_2_HspB5_Microcebus_murinus_Primates,047_XM_006150984_2_HspB5_Tupaia_chinensis_GliresScandentia)Node281)Node277)Node267,(062_XM_019653686_1_HspB5_isoform_X1_Hipposideros_armiger_Laurasitheria,(100_XM_006833817_1_NShortened_HspB5_Chrysochloris_asiatica_Aftrotheria,101_XM_006890772_1_HspB1_Elephantulus_edwardii_Afrotheria)Node255)Node253,(60a_XM_007537847_2_HspB5_Erinaceus_europaeus_Laurasitheria,060_XM_001501779_5_HspB5_Equus_caballus_Laurasitheria,(077_XM_016149055_1_NShortened_HspB5_Rousettus_aegyptiacus_Laurasitheria,074_XM_006912821_1_NShortened_HspB5_Pteropus_alecto_Laurasitheria,076_XM_011365409_2_NShortened_HspB5_Pteropus_vampyrus_Laurasitheria)Node261)Node258)Node251)"
+    }
+  },
+ "test results":{
+   "LRT":0,
+   "p-value":0.5
+  },
+ "tested":{
+   "0":{
+     "001_NM_001885_2_HspB5_Homo_sapiens_Primates":"test",
+     "001b_XM_011926733_1_HspB5_Colobus_angolensis_Primates":"test",
+     "002_XM_002754383_3_HspB5_Callithrix_jacchus_Primates":"test",
+     "003_XM_008065587_2_HspB5_isoform_X1_Carlito_syrichta_Primates":"test",
+     "004b_XM_012066401_1_HspB5_Cercocebus_atys_Primates":"test",
+     "005_XM_008020848_1_HspB5_Chlorocebus_sabaeus_Primates":"test",
+     "007_XM_004052118_2_HspB5_Gorilla_gorilla_Primates":"test",
+     "008_XM_015435350_1_HspB5_isoform_X1_Macaca_fascicularis_Primates":"test",
+     "009_NM_001260901_1_HspB5_Macaca_mulatta_Primates":"test",
+     "010_XM_012749592_2_HspB5_Microcebus_murinus_Primates":"test",
+     "011_XM_004090563_2_HspB5_Nomascus_leucogenys_Primates":"test",
+     "012_XM_003794732_3_HspB5_Otolemur_garnettii_Primates":"test",
+     "012b_XM_003805460_4_HspB5_Pan_paniscus_Primates":"test",
+     "013_XM_016921980_2_HspB5_Pan_troglodytes_Primates":"test",
+     "014_XM_009247045_2_HspB5_isoform_X1_Pongo_abelii_Primates":"test",
+     "015_XM_012659198_1_HspB5_Propithecus_coquereli_Primates":"test",
+     "015a_XM_010382343_1_HspB5_Rhinopithecus_roxellana_Primates":"test",
+     "016_XM_010334574_1_HspB5_transcript_variant_X1_Saimiri_boliviensis_Primates":"test",
+     "030_XM_020175744_1_HspB5_Castor_canadensis_GliresScandentia":"test",
+     "031_NM_001173076_1_HspB5_Cavia_porcellus_GliresScandentia":"test",
+     "032_XM_005378100_2_HspB5_Chinchilla_lanigera_GliresScandentia":"test",
+     "033_XM_016968238_1_HspB5_variantX7_Cricetulus_griseus_GliresScandentia":"test",
+     "035_XM_010610684_2_HspB5_Fukomys_damarensis_GliresScenadentia":"test",
+     "036_NM_001279857_2_HspB5_Heterocephalus_glaber_GliresScandentia":"test",
+     "037_XM_004666484_2_HspB5_Jaculus_jaculus_GliresScadentia":"test",
+     "037a_XM_015489896_1_HspB5_Marmota_marmota_GliresScandentia":"test",
+     "038_XM_021658661_1_HspB5_Meriones_unguiculatus_GliresScandentia":"test",
+     "039_XM_013113005_2_HspB5_Mesocricetus_auratus_GliresScandentia":"test",
+     "040_XM_005347316_3_HspB5_Microtus_ochrogaster_GliresScandentia":"test",
+     "041_NM_001289785_1_HspB5_Mus_musculus_GliresScandentia":"test",
+     "041a_XM_021206500_1_Hspb5_variant_X3_Mus_pahari_GliresScandentia":"test",
+     "042_XM_008832795_1_HspB5_Nannospalax_galili_GliresScandentia":"test",
+     "043_XM_012926934_1_HspB5_transcript_X1_Ochotona_princeps_GliresScandentia":"test",
+     "044_XM_004646354_3_HspB5_Octodon_degus_GliresScandentia":"test",
+     "044a_NM_001082407_1_HspB5_Oryctolagus_cuniculus_GliresScandentia":"test",
+     "045_XM_015987087_1_HspB5_Peromyscus_maniculatus_GliresScandentia":"test",
+     "046_NM_012935_4_HspB5_Rattus_norvegicus_GliresScandentia":"test",
+     "047_XM_006150984_2_HspB5_Tupaia_chinensis_GliresScandentia":"test",
+     "050_NM_001304874_1_HspB5_Ailuropoda_melanoleuca_Laurasitheria":"test",
+     "050b_XM_019975270_1_HspB5_Bos_indicus_Laurasitheria":"test",
+     "052_NM_174290_2_HspB5_Bos_taurus_Laurasitheria":"test",
+     "053_XM_006190373_2_HspB5_isoform_X1_Camelus_ferus_Laurasitheria":"test",
+     "053a_KJ174932_1_HspB5_stopcodon_missing_Camelus_dromedarius_Laurasitheria":"test",
+     "053a_XM_010985982_1_HspB5_NShortened_Camelus_dromedarius_Laurasitheria":"test",
+     "054_XM_857165_5_HspB5_Canis_lupus_Laurasitheria":"test",
+     "055_XM_004427339_2_HspB5_Ceratotherium_simum_Laurasitheria":"test",
+     "056_XM_004689273_2_HspB5_Condylura_cristata_Laurasitheria":"test",
+     "057_XM_022561589_1_HspB5_Delphinapterus_leucas_Laurasiathera":"test",
+     "058_XM_022512857_1_HspB2_transcript_variant_X2_Enhydra_lutris_Laurasiathera":"test",
+     "059_XM_008150161_1_HspB5_Eptesicus_fuscus_Laurasitheria":"test",
+     "060_XM_001501779_5_HspB5_Equus_caballus_Laurasitheria":"test",
+     "061_XM_011286345_3_HspB5_Felis_catus_Laurasitheria":"test",
+     "062_XM_019653686_1_HspB5_isoform_X1_Hipposideros_armiger_Laurasitheria":"test",
+     "063_XM_007464652_1_HspB5_Lipotes_vexillifer_Laurasitheria":"test",
+     "064_XM_017659392_1_HspB5_Manis_javanica_Laurasitheria":"test",
+     "066_XM_004749799_2_HspB5_Mustela_putorius_Laurasitheria":"test",
+     "070_XM_012567097_1_HspB5_Odobenus_rosmarus_Laurasitheria":"test",
+     "071_XM_004273414_2_HspB5_Orcinus_orca_Laurasitheria":"test",
+     "072_NM_001012457_2_HspB5_Ovis_aries_Laurasitheria":"test",
+     "073_XM_015542578_1_HspB5_Panthera_tigris_Laurasitheria":"test",
+     "073a_XM_019469186_1_HspB5_Panthera_pardus_Laurasitheria":"test",
+     "074_XM_006912821_1_NShortened_HspB5_Pteropus_alecto_Laurasitheria":"test",
+     "075_XM_007128267_2_HspB5_Physeter_catodon_Laurasitheria":"test",
+     "076_XM_011365409_2_NShortened_HspB5_Pteropus_vampyrus_Laurasitheria":"test",
+     "077_XM_016149055_1_NShortened_HspB5_Rousettus_aegyptiacus_Laurasitheria":"test",
+     "079_XM_004604685_2_HspB5_Sorex_araneus_Laurasitheria":"test",
+     "080_XM_021062779_1_HspB5_variant_X3_Sus_scrofa_Laurasitheria":"test",
+     "081_XM_008690086_1_HspB5_Ursus_maritimus_Laurasotheria":"test",
+     "082_XM_006217871_2_HspB5_isoform_X1_Vicugna_pacos_Laurasitheria":"test",
+     "100_XM_006833817_1_NShortened_HspB5_Chrysochloris_asiatica_Aftrotheria":"test",
+     "100a_XM_004708973_2_HspB5_Echinops_telfairi_Afrotheria":"test",
+     "101_XM_006890772_1_HspB1_Elephantulus_edwardii_Afrotheria":"test",
+     "102_XM_003415624_3_HspB5_Loxodonta_africana_Aftrotheria":"test",
+     "103_XM_007936553_1_HspB5_Orycteropus_afer_Afrotheria":"test",
+     "103a_ENSPCAT00000001647_1_HspB5_Procavia_capensis_Aftrotheria":"test",
+     "104_XM_004382499_3_HspB5_Trichechus_manatus_Afrotheria":"test",
+     "110_XM_003764224_2_HspB5_Sarcophilus_harrisii_Metatheria":"test",
+     "111_XM_001371207_3_HspB5_Monodelphis_domestica_Metatheria":"test",
+     "113_XM_020989782_1_HspB5_Phascolarctos_cinereus_Metatheria":"test",
+     "115_XM_004481144_3_HspB5_Dasypus_novemcinctus_Xenarthra":"test",
+     "120_XM_006271349_3_HspB5_isoform_X1_Alligator_mississippiensis_SauriaTestudines":"test",
+     "121a_NM_001310366_1_HspB5_Anas_platyrhynchos_SauriaTestudines":"test",
+     "122_XM_008121072_2_HspB5_Anolis_carolinensis_SauriaTestudines":"test",
+     "122a_XM_009870055_1_122a_Apaloderma_vittatum_SauriaTestudines":"test",
+     "122b_XM_026863824_1_HspB5_Athene_cunicularia_SauriaTestudines":"test",
+     "122c_XM_010169584_1_HspB5_Antrostomus_carolinensis_SauriaTestudines":"test",
+     "123_XM_011601882_1_HspB5_Aquila_chrysaetos_SauriaTestudines":"test",
+     "123a_XM_010298661_1_HspB5_Balearica_regulorum_SauriaTestudines":"test",
+     "123b_XM_010142606_1_HspB5_Buceros_rhinoceros_SauriaTestudines":"test",
+     "124_XM_014949523_1_HspB5_Calidris_pugnax_SauriaTestudines":"test",
+     "125_XM_008492420_1_HspB5_Calypte_anna_SauriaTestudines":"test",
+     "125a_XM_009696584_1_HspB5_Cariama_cristata_SauriaTestudines":"test",
+     "125c_XM_009997410_1_HspB5_Chaetura_pelagica_SauriaTestudines":"test",
+     "125d_XM_009882443_1_HspB5_Charadrius_vociferus_SauriaTestudines":"test",
+     "126_XM_005291386_3_HspB5_Chrysemys_picta_SauriaTestudines":"test",
+     "126a_XM_021285292_1_HspB5_Columba_livia_SauriaTestudines":"test",
+     "127_XM_008636923_2_HspB5_Corvus_brachyrhynchos_SauriaTeatudines":"test",
+     "128_XM_015883834_1_HspB5_Coturnix_japonica_SauriaTestudines":"test",
+     "129_XM_019547110_1_HspB5_isoform_X1_Crocodylus_porosus_SauriaTestudines":"test",
+     "130_XM_009569900_1_HspB5_Cuculus_canorus_SauriaTestudines":"test",
+     "130b_XM_009638415_1_HspB5_Egretta_garzetta_SauriaTestudines":"test",
+     "131_XM_005440198_1_HspB5_Falco_cherrug_SauriaTestudines":"test",
+     "132_XM_005236602_1_HspB5_Falco_peregrinus_SauriaTestudines":"test",
+     "133_XM_005058800_1_HspB5_Ficedula_albicollis_SauriaTestudines":"test",
+     "134_NM_205176_1_HspB5_Gallus_gallus_SauriaTestudines":"test",
+     "134a_XM_009810695_1_HspB5_Gavia_stellata_SauriaTestudines":"test",
+     "135_XM_015415588_1_HspB5_isoform_X1_Gekko_japonicus_SauriaTestudines":"test",
+     "136_XM_010575003_1_HspB5_Haliaeetus_leucocephalus_SauriaTestudines":"test",
+     "136a_XM_009917256_1_HspB5_Haliaeetus_albicilla_SauriaTestudines":"test",
+     "137_XM_017809764_1_HspB5_Lepidothrix_coronata_SauriaTestudines":"test",
+     "138_XM_021530106_1_HspB5_isoform_X1_Lonchura_striata_SauriaTestudines":"test",
+     "138a_XM_008935459_1_HspB5_Merops_nubicus_SauriaTestudines":"test",
+     "139_XM_009472271_1_HspB5_Nipponia_nippon_SauriaTestudines":"test",
+     "139a_XM_026041046_1_HspB5_Nothoprocta_perdicaria_SauriaTestudines":"test",
+     "139b_XM_015649982_1_HspB5_isoform_X1_Parus_major_SauriaTestudines":"test",
+     "139c_XM_009944637_1_HspB5_Opisthocomus_hoazin_SauriaTestudines":"test",
+     "139d_XM_009485675_1_HspB5_Pelecanus_crispus_SauriaTestudines":"test",
+     "142_XM_005531058_2_HspB5_Pseudopodoces_humilis_SauriaTestudines":"test",
+     "143_XM_009098028_2_HspB5_Serinus_canaria_SauriaTestudines":"test",
+     "144_XM_002192884_3_HspB5_Taeniopygia_guttata_SauriaTestudines":"test",
+     "144a_XM_024207189_2_HspB5_Terrapene_mexicana_SauriaTestudines":"test",
+     "160_XM_018564029_1_Nanorana_parkeri_Anura":"test",
+     "161_XM_018225915_1_HspB5_like_Xenopus_laevis_Anura":"test",
+     "162_XM_002932918_4_HspB5_Xenopus_tropicalis_Anura":"test",
+     "170_XM_005987256_2_HspB5_Latimeria_chalumnae_Coelacanthidae":"test",
+     "180_XM_012821983_1_HspB5_Clupea_harengus_Otomorpha":"test",
+     "180a_ENSAMXT00000007540_2_Astyanax_mexicanus_Otomorpha":"test",
+     "180c_XM_026212446_1_HspB5_like_Carassius_auratus_Otomorpha":"test",
+     "181_XM_019095482_1_HspB5_like_isoform_X1_Cyprinus_carpio_Otomorpha":"test",
+     "182_NM_131157_1_HspB5_Danio_rerio_Otomorpha":"test",
+     "182a_XM_017699999_1_HspB5_Pygocentrus_nattereri_Otomorpha":"test",
+     "182b_ENSIPUT00000034725_1_Ictalurus_punctatus_Otomorpha":"test",
+     "182c_XM_027031825_1_HspB5_isoform_X1_Electrophorus_electricus_Otomorpha":"test",
+     "182e_XM_026921851_1_HspB5_like_Pangasianodon_hypophthalmus_Otomorpha":"test",
+     "183_XM_016490540_1_HspB5_like_Sinocyclocheilus_anshuiensis_Otomorpha":"test",
+     "183a_XM_016295944_1_HspB5_like_Sinocyclocheilus_grahami_Otomorpha":"test",
+     "184_XM_016518971_1_HspB5_Sinocyclocheilus_rhinocerous_Otomorpha":"test",
+     "185_XM_027178619_1_HspB5_Tachysurus_fulvidraco_Otomorpha":"test",
+     "190_ENSAPOT00000005575_1_HspB5a_Acanthochromis_polyacanthus_Euteleosteomorpha":"test",
+     "231b_XM_023813558_1_HspB5_isoform_X1_Paramormyrops_kingsleyae_Osteoglossocephala":"test",
+     "231c_XM_018755058_1_HspB5_Scleropages_formosus_Osteoglossocephala":"test",
+     "240_XM_007911619_1_HspB5_Callorhinchus_milii_Chondrichthyes":"test",
+     "241_XM_020530352_1_HspB5_Rhincodon_typus_Chondrichthyes":"test",
+     "60a_XM_007537847_2_HspB5_Erinaceus_europaeus_Laurasitheria":"test",
+     "Node100":"test",
+     "Node101":"test",
+     "Node106":"test",
+     "Node11":"test",
+     "Node111":"test",
+     "Node112":"test",
+     "Node117":"test",
+     "Node120":"test",
+     "Node121":"test",
+     "Node123":"test",
+     "Node126":"test",
+     "Node13":"test",
+     "Node130":"test",
+     "Node135":"test",
+     "Node136":"test",
+     "Node137":"test",
+     "Node139":"test",
+     "Node14":"test",
+     "Node140":"test",
+     "Node143":"test",
+     "Node145":"test",
+     "Node148":"test",
+     "Node149":"test",
+     "Node151":"test",
+     "Node154":"test",
+     "Node156":"test",
+     "Node157":"test",
+     "Node161":"test",
+     "Node164":"test",
+     "Node165":"test",
+     "Node166":"test",
+     "Node168":"test",
+     "Node17":"test",
+     "Node170":"test",
+     "Node175":"test",
+     "Node177":"test",
+     "Node184":"test",
+     "Node190":"test",
+     "Node192":"test",
+     "Node195":"test",
+     "Node2":"test",
+     "Node20":"test",
+     "Node209":"test",
+     "Node21":"test",
+     "Node210":"test",
+     "Node216":"test",
+     "Node217":"test",
+     "Node223":"test",
+     "Node228":"test",
+     "Node23":"test",
+     "Node233":"test",
+     "Node235":"test",
+     "Node237":"test",
+     "Node238":"test",
+     "Node240":"test",
+     "Node243":"test",
+     "Node25":"test",
+     "Node251":"test",
+     "Node253":"test",
+     "Node255":"test",
+     "Node258":"test",
+     "Node261":"test",
+     "Node267":"test",
+     "Node268":"test",
+     "Node270":"test",
+     "Node272":"test",
+     "Node274":"test",
+     "Node277":"test",
+     "Node28":"test",
+     "Node281":"test",
+     "Node284":"test",
+     "Node286":"test",
+     "Node3":"test",
+     "Node32":"test",
+     "Node34":"test",
+     "Node37":"test",
+     "Node40":"test",
+     "Node41":"test",
+     "Node42":"test",
+     "Node45":"test",
+     "Node46":"test",
+     "Node49":"test",
+     "Node5":"test",
+     "Node51":"test",
+     "Node52":"test",
+     "Node53":"test",
+     "Node56":"test",
+     "Node57":"test",
+     "Node60":"test",
+     "Node61":"test",
+     "Node64":"test",
+     "Node65":"test",
+     "Node68":"test",
+     "Node69":"test",
+     "Node70":"test",
+     "Node72":"test",
+     "Node75":"test",
+     "Node76":"test",
+     "Node77":"test",
+     "Node78":"test",
+     "Node8":"test",
+     "Node81":"test",
+     "Node83":"test",
+     "Node84":"test",
+     "Node86":"test",
+     "Node88":"test",
+     "Node95":"test",
+     "Node98":"test",
+     "XM_006642147_2_HspB5_Lepisosteus_oculatus_Holostei":"test",
+     "XM_008577609_1_HspB5_isoform_X1_Galeopterus_variegatus_Euarchontoglires":"test",
+     "XM_017517682_1_HspB5_Cebus_capucinus_Primates":"test",
+     "XM_026105876_1_HspB5_Dromaius_novaehollandiae_SauriaTestudines":"test"
+    }
+  },
+ "timers":{
+   "Overall":{
+     "order":0,
+     "timer":2746
+    },
+   "Preliminary model fitting":{
+     "order":1,
+     "timer":71
+    },
+   "Unconstrained BUSTED model fitting":{
+     "order":2,
+     "timer":2671
+    }
+  }
+}
